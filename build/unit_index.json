@@ -1,0 +1,818 @@
+[
+ {
+  "unit_id": "CALC-L01",
+  "course": "CALC",
+  "module": 1,
+  "unit": 1,
+  "title": "Lecture 1. Sequences and their limits",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L02",
+  "course": "CALC",
+  "module": 1,
+  "unit": 2,
+  "title": "Lecture 2. Limit of a function",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L03",
+  "course": "CALC",
+  "module": 1,
+  "unit": 3,
+  "title": "Lecture 3. Asymptotic notation and special limits",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L04",
+  "course": "CALC",
+  "module": 1,
+  "unit": 4,
+  "title": "Lecture 4. Continuity on a closed interval",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L05",
+  "course": "CALC",
+  "module": 2,
+  "unit": 1,
+  "title": "Lecture 5. The derivative",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L06",
+  "course": "CALC",
+  "module": 2,
+  "unit": 2,
+  "title": "Lecture 6. Mean value theorems",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L07",
+  "course": "CALC",
+  "module": 2,
+  "unit": 3,
+  "title": "Lecture 7. Differentials and higher derivatives",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L08",
+  "course": "CALC",
+  "module": 2,
+  "unit": 4,
+  "title": "Lecture 8. Taylor's formula and L'Hôpital's rule",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L09",
+  "course": "CALC",
+  "module": 2,
+  "unit": 5,
+  "title": "Lecture 9. Convexity and curve sketching",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L10",
+  "course": "CALC",
+  "module": 3,
+  "unit": 1,
+  "title": "Lecture 10. Antiderivative and substitution",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L11",
+  "course": "CALC",
+  "module": 3,
+  "unit": 2,
+  "title": "Lecture 11. Integration by parts",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L12",
+  "course": "CALC",
+  "module": 3,
+  "unit": 3,
+  "title": "Lecture 12. The definite integral",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L13",
+  "course": "CALC",
+  "module": 3,
+  "unit": 4,
+  "title": "Lecture 13. Applications and improper integrals",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L14",
+  "course": "CALC",
+  "module": 4,
+  "unit": 1,
+  "title": "Lecture 14. Numerical series",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "CALC-L15",
+  "course": "CALC",
+  "module": 4,
+  "unit": 2,
+  "title": "Lecture 15. Power and Taylor series",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Calculus.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Calculus.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P01",
+  "course": "PROB",
+  "module": 1,
+  "unit": 1,
+  "title": "Materials 1. Logical propositions",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P02",
+  "course": "PROB",
+  "module": 1,
+  "unit": 2,
+  "title": "Materials 2. Logical operations and truth tables",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P03",
+  "course": "PROB",
+  "module": 1,
+  "unit": 3,
+  "title": "Materials 3. Negations of claims",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P04",
+  "course": "PROB",
+  "module": 1,
+  "unit": 4,
+  "title": "Materials 4. Sets and set operations",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P05",
+  "course": "PROB",
+  "module": 2,
+  "unit": 1,
+  "title": "Materials 5. Cardinality of a finite set",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P06",
+  "course": "PROB",
+  "module": 2,
+  "unit": 2,
+  "title": "Materials 6. Cartesian product and counting rules",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P07",
+  "course": "PROB",
+  "module": 2,
+  "unit": 3,
+  "title": "Materials 7. Permutations and combinations",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P08",
+  "course": "PROB",
+  "module": 3,
+  "unit": 1,
+  "title": "Materials 8. Event space and events",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P09",
+  "course": "PROB",
+  "module": 3,
+  "unit": 2,
+  "title": "Materials 9. Definition and rules of probability",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P10",
+  "course": "PROB",
+  "module": 3,
+  "unit": 3,
+  "title": "Materials 10. Combinatorics in probability problems",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P11",
+  "course": "PROB",
+  "module": 4,
+  "unit": 1,
+  "title": "Materials 11. Conditional probability and independence",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P12",
+  "course": "PROB",
+  "module": 4,
+  "unit": 2,
+  "title": "Materials 12. Total probability law",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P13",
+  "course": "PROB",
+  "module": 4,
+  "unit": 3,
+  "title": "Materials 13–14. Bayes' rule",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P15",
+  "course": "PROB",
+  "module": 5,
+  "unit": 1,
+  "title": "Materials 15. Random variables and expected value",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "PROB-P16",
+  "course": "PROB",
+  "module": 5,
+  "unit": 2,
+  "title": "Materials 16. Variance and standard deviation",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Probability_essentials.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Probability_essentials.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "ML-M1",
+  "course": "ML",
+  "module": 1,
+  "unit": 1,
+  "title": "Module 1. Supervised Learning",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Machine_Learning.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Machine_Learning.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "ML-M2",
+  "course": "ML",
+  "module": 2,
+  "unit": 1,
+  "title": "Module 2. Unsupervised Learning",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Machine_Learning.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Machine_Learning.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "ML-M3",
+  "course": "ML",
+  "module": 3,
+  "unit": 1,
+  "title": "Module 3. Deep Learning",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Machine_Learning.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Machine_Learning.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "ML-M4",
+  "course": "ML",
+  "module": 4,
+  "unit": 1,
+  "title": "Module 4. Regularization",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Machine_Learning.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Machine_Learning.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "ML-M5",
+  "course": "ML",
+  "module": 5,
+  "unit": 1,
+  "title": "Module 5. Ensemble learning",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Machine_Learning.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Machine_Learning.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "ML-M6",
+  "course": "ML",
+  "module": 6,
+  "unit": 1,
+  "title": "Module 6. Performance metrics",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Machine_Learning.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Machine_Learning.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M1U1",
+  "course": "LA",
+  "module": 1,
+  "unit": 1,
+  "title": "PSS 1. Back to School",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M1U2",
+  "course": "LA",
+  "module": 1,
+  "unit": 2,
+  "title": "PSS 2. Matrices and row operations",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M1U3",
+  "course": "LA",
+  "module": 1,
+  "unit": 3,
+  "title": "PSS 3. Jordan-Gauss method elimination",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M2U1",
+  "course": "LA",
+  "module": 2,
+  "unit": 1,
+  "title": "PSS 4. Applications for SLE",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M2U2",
+  "course": "LA",
+  "module": 2,
+  "unit": 2,
+  "title": "PSS 5. Test Preparation (Test 1)",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M2U3",
+  "course": "LA",
+  "module": 2,
+  "unit": 3,
+  "title": "PSS 6. Operations with vectors. The concept of a linear space",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M3U1",
+  "course": "LA",
+  "module": 3,
+  "unit": 1,
+  "title": "PSS 7. Matrix operations: addition, scalar multiplication, transposition",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M3U2",
+  "course": "LA",
+  "module": 3,
+  "unit": 2,
+  "title": "PSS 8. Matrix operations: multiplication",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M4U1",
+  "course": "LA",
+  "module": 4,
+  "unit": 1,
+  "title": "PSS 9. Test preparation (Test 2)",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M4U2",
+  "course": "LA",
+  "module": 4,
+  "unit": 2,
+  "title": "PSS 10. Finding an inverse matrix",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M5U1",
+  "course": "LA",
+  "module": 5,
+  "unit": 1,
+  "title": "PSS 11. Solving SLE using the inverse matrix",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M5U2",
+  "course": "LA",
+  "module": 5,
+  "unit": 2,
+  "title": "PSS 12. Determinants and their applications",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M6U1",
+  "course": "LA",
+  "module": 6,
+  "unit": 1,
+  "title": "PSS 13. Test preparation (Test 3)",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M6U2",
+  "course": "LA",
+  "module": 6,
+  "unit": 2,
+  "title": "PSS 14. Geometric transformations and matrices",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ },
+ {
+  "unit_id": "LA-M7U1",
+  "course": "LA",
+  "module": 7,
+  "unit": 1,
+  "title": "PSS 15. Total recall / course wrap-up",
+  "n_files": 1,
+  "chars": 0,
+  "files": [
+   {
+    "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+    "asset_kind": "handbook",
+    "filename": "Syllabus_Linear_Algebra.pdf"
+   }
+  ]
+ }
+]

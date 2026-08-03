@@ -1,0 +1,41 @@
+{
+ "concepts": 144,
+ "links": 254,
+ "occurrences": 193,
+ "link_types": {
+  "prerequisite": 185,
+  "part_of": 11,
+  "applies_to": 23,
+  "contrasts_with": 13,
+  "related": 22
+ },
+ "bridge_links": 0,
+ "cross_course_links": 38,
+ "multi_course_concepts": 0,
+ "quote_verbatim_rate": 1.0,
+ "quotes_verified": 193,
+ "quotes_unverified": 0,
+ "unit_coverage": 1.0,
+ "units_expected": 51,
+ "units_covered": 51,
+ "units_empty": [],
+ "units_out_of_range": [],
+ "concepts_per_unit": {
+  "min": 1,
+  "max": 9,
+  "median": 3
+ },
+ "components": 1,
+ "component_sizes": [
+  144
+ ],
+ "isolated_concepts": [],
+ "dangling_links": 0,
+ "orphan_concepts": [],
+ "thin_definitions": [],
+ "prerequisite_acyclic": true,
+ "graph_notes": [],
+ "unverified_quotes": [],
+ "gate_failures": [],
+ "gate_passed": true
+}
