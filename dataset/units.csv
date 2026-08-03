@@ -1,0 +1,52 @@
+unit_id,module_code,course_code,ordinal,n_files,chars,session
+CALC-L01,CALC-M1,CALC,1,1,0,Lecture 1. Sequences and their limits
+CALC-L02,CALC-M1,CALC,2,1,0,Lecture 2. Limit of a function
+CALC-L03,CALC-M1,CALC,3,1,0,Lecture 3. Asymptotic notation and special limits
+CALC-L04,CALC-M1,CALC,4,1,0,Lecture 4. Continuity on a closed interval
+CALC-L05,CALC-M2,CALC,1,1,0,Lecture 5. The derivative
+CALC-L06,CALC-M2,CALC,2,1,0,Lecture 6. Mean value theorems
+CALC-L07,CALC-M2,CALC,3,1,0,Lecture 7. Differentials and higher derivatives
+CALC-L08,CALC-M2,CALC,4,1,0,Lecture 8. Taylor's formula and L'Hôpital's rule
+CALC-L09,CALC-M2,CALC,5,1,0,Lecture 9. Convexity and curve sketching
+CALC-L10,CALC-M3,CALC,1,1,0,Lecture 10. Antiderivative and substitution
+CALC-L11,CALC-M3,CALC,2,1,0,Lecture 11. Integration by parts
+CALC-L12,CALC-M3,CALC,3,1,0,Lecture 12. The definite integral
+CALC-L13,CALC-M3,CALC,4,1,0,Lecture 13. Applications and improper integrals
+CALC-L14,CALC-M4,CALC,1,1,0,Lecture 14. Numerical series
+CALC-L15,CALC-M4,CALC,2,1,0,Lecture 15. Power and Taylor series
+PROB-P01,PROB-M1,PROB,1,1,0,Materials 1. Logical propositions
+PROB-P02,PROB-M1,PROB,2,1,0,Materials 2. Logical operations and truth tables
+PROB-P03,PROB-M1,PROB,3,1,0,Materials 3. Negations of claims
+PROB-P04,PROB-M1,PROB,4,1,0,Materials 4. Sets and set operations
+PROB-P05,PROB-M2,PROB,1,1,0,Materials 5. Cardinality of a finite set
+PROB-P06,PROB-M2,PROB,2,1,0,Materials 6. Cartesian product and counting rules
+PROB-P07,PROB-M2,PROB,3,1,0,Materials 7. Permutations and combinations
+PROB-P08,PROB-M3,PROB,1,1,0,Materials 8. Event space and events
+PROB-P09,PROB-M3,PROB,2,1,0,Materials 9. Definition and rules of probability
+PROB-P10,PROB-M3,PROB,3,1,0,Materials 10. Combinatorics in probability problems
+PROB-P11,PROB-M4,PROB,1,1,0,Materials 11. Conditional probability and independence
+PROB-P12,PROB-M4,PROB,2,1,0,Materials 12. Total probability law
+PROB-P13,PROB-M4,PROB,3,1,0,Materials 13–14. Bayes' rule
+PROB-P15,PROB-M5,PROB,1,1,0,Materials 15. Random variables and expected value
+PROB-P16,PROB-M5,PROB,2,1,0,Materials 16. Variance and standard deviation
+ML-M1,ML-M1,ML,1,1,0,Module 1. Supervised Learning
+ML-M2,ML-M2,ML,1,1,0,Module 2. Unsupervised Learning
+ML-M3,ML-M3,ML,1,1,0,Module 3. Deep Learning
+ML-M4,ML-M4,ML,1,1,0,Module 4. Regularization
+ML-M5,ML-M5,ML,1,1,0,Module 5. Ensemble learning
+ML-M6,ML-M6,ML,1,1,0,Module 6. Performance metrics
+LA-M1U1,LA-M1,LA,1,1,0,PSS 1. Back to School
+LA-M1U2,LA-M1,LA,2,1,0,PSS 2. Matrices and row operations
+LA-M1U3,LA-M1,LA,3,1,0,PSS 3. Jordan-Gauss method elimination
+LA-M2U1,LA-M2,LA,1,1,0,PSS 4. Applications for SLE
+LA-M2U2,LA-M2,LA,2,1,0,PSS 5. Test Preparation (Test 1)
+LA-M2U3,LA-M2,LA,3,1,0,PSS 6. Operations with vectors. The concept of a linear space
+LA-M3U1,LA-M3,LA,1,1,0,"PSS 7. Matrix operations: addition, scalar multiplication, transposition"
+LA-M3U2,LA-M3,LA,2,1,0,PSS 8. Matrix operations: multiplication
+LA-M4U1,LA-M4,LA,1,1,0,PSS 9. Test preparation (Test 2)
+LA-M4U2,LA-M4,LA,2,1,0,PSS 10. Finding an inverse matrix
+LA-M5U1,LA-M5,LA,1,1,0,PSS 11. Solving SLE using the inverse matrix
+LA-M5U2,LA-M5,LA,2,1,0,PSS 12. Determinants and their applications
+LA-M6U1,LA-M6,LA,1,1,0,PSS 13. Test preparation (Test 3)
+LA-M6U2,LA-M6,LA,2,1,0,PSS 14. Geometric transformations and matrices
+LA-M7U1,LA-M7,LA,1,1,0,PSS 15. Total recall / course wrap-up

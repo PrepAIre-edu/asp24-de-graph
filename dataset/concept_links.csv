@@ -1,0 +1,255 @@
+src_slug,dst_slug,type,strength,rationale,origin,cross_course
+accuracy,baseline,prerequisite,0.8,"a baseline is a score, so the metric comes first",extracted,0
+accuracy,holistic-evaluation,prerequisite,0.8,the holistic view starts from single metrics,extracted,0
+antiderivative,indefinite-integral,prerequisite,0.95,the indefinite integral is the family of antiderivatives,extracted,0
+antiderivative,newton-leibniz-formula,prerequisite,0.95,the formula connects the two integrals,extracted,0
+artificial-neuron,feedforward-network,prerequisite,0.95,a network is built from neurons,extracted,0
+averaging-and-voting,stacking,prerequisite,0.8,stacking learns the combination instead of fixing it,extracted,0
+backpropagation,training-loop,prerequisite,0.95,the loop applies the gradients backprop computes,extracted,0
+bagging,random-forest,prerequisite,0.95,a forest is bagged trees,extracted,0
+bayes-rule,posterior-probability,prerequisite,0.95,the rule computes the posterior,extracted,0
+big-o-notation,little-o-notation,prerequisite,0.85,little-o is introduced against big-O in the same lecture,extracted,0
+cardinality-of-finite-set,addition-rule,prerequisite,0.85,the rule counts a disjoint union,extracted,0
+cartesian-product,multiplication-rule,prerequisite,0.9,the rule counts the product set,extracted,0
+cauchy-mean-value-theorem,lhopitals-rule,prerequisite,0.85,the rule is proved from Cauchy's theorem,extracted,0
+classification,accuracy,prerequisite,0.9,accuracy scores a classifier,extracted,0
+classification,confusion-matrix,prerequisite,0.9,the matrix tabulates classifier outcomes,extracted,0
+coefficient-matrix,elementary-row-operations,prerequisite,0.9,row operations act on the matrix of the system,extracted,0
+combination,combinatorial-probability,prerequisite,0.9,counting favourable cases uses combinatorics,extracted,0
+conditional-probability,bayes-rule,prerequisite,0.95,the rule inverts a conditional probability,extracted,0
+conditional-probability,classification,prerequisite,0.8,a classifier estimates the class probability given the features,extracted,1
+conditional-probability,independent-events,prerequisite,0.9,independence is defined through conditioning,extracted,0
+conditional-probability,total-probability-law,prerequisite,0.95,the law sums conditional probabilities,extracted,0
+confusion-matrix,precision,prerequisite,0.95,precision is read off the matrix,extracted,0
+confusion-matrix,recall,prerequisite,0.95,recall is read off the matrix,extracted,0
+confusion-matrix,roc-auc,prerequisite,0.85,the curve is traced by moving the threshold,extracted,0
+continuity,differentiable-function,prerequisite,0.8,differentiability is the stronger condition,extracted,0
+continuity,intermediate-value-theorem,prerequisite,0.95,the hypothesis of the theorem,extracted,0
+continuity,weierstrass-theorem,prerequisite,0.95,the hypothesis of the theorem,extracted,0
+convergence-of-series,convergence-tests,prerequisite,0.9,the tests decide convergence,extracted,0
+convergence-of-series,domain-of-convergence,prerequisite,0.85,the domain is where convergence holds,extracted,0
+convergence-of-series,expected-value,prerequisite,0.75,the expectation exists only if the series converges,extracted,1
+convexity,function-graphing,prerequisite,0.8,the shape of the graph follows from convexity,extracted,0
+convexity,second-derivative-test,prerequisite,0.9,the test applies the convexity criterion,extracted,0
+convexity,training-loop,prerequisite,0.75,convexity determines whether gradient descent finds a global optimum,extracted,1
+curse-of-dimensionality,data-compression,prerequisite,0.8,compression is the response to high dimension,extracted,0
+data-compression,pca,prerequisite,0.9,PCA is the linear compression method,extracted,0
+decision-tree,random-forest,prerequisite,0.95,the members are decision trees,extracted,0
+deep-learning,convolution-operation,prerequisite,0.85,convolution is a deep-learning layer type,extracted,0
+definite-integral,applications-of-definite-integral,prerequisite,0.9,applications presuppose the object,extracted,0
+definite-integral,improper-integral,prerequisite,0.9,the improper case is a limit of proper integrals,extracted,0
+definite-integral,mean-value-theorem-for-integrals,prerequisite,0.9,a statement about the definite integral,extracted,0
+definite-integral,newton-leibniz-formula,prerequisite,0.95,the formula evaluates the definite integral,extracted,0
+derivative,antiderivative,prerequisite,0.95,the antiderivative inverts differentiation,extracted,0
+derivative,backpropagation,prerequisite,0.95,backprop is the chain rule applied to a network,extracted,1
+derivative,differentiable-function,prerequisite,0.95,having a derivative everywhere on an interval,extracted,0
+derivative,differential,prerequisite,0.9,the differential is the derivative times the increment,extracted,0
+derivative,differentiation-rules,prerequisite,0.9,rules for computing what has been defined,extracted,0
+derivative,higher-order-derivative,prerequisite,0.9,obtained by iterating differentiation,extracted,0
+determinant,determinant-geometric-interpretation,prerequisite,0.9,the number comes before its geometric reading,extracted,0
+determinant,inverse-2x2-formula,prerequisite,0.9,the closed formula divides by the determinant,extracted,0
+differentiable-function,rolles-theorem,prerequisite,0.9,the hypothesis of the theorem,extracted,0
+differentiation-rules,backpropagation,prerequisite,0.95,the chain rule is exactly what backprop implements,extracted,1
+differentiation-rules,integration-by-parts,prerequisite,0.85,parts is the product rule reversed,extracted,0
+differentiation-rules,integration-by-substitution,prerequisite,0.85,substitution is the chain rule reversed,extracted,0
+elementary-row-operations,gaussian-elimination,prerequisite,0.95,the algorithm is built out of row operations,extracted,0
+elementary-row-operations,row-echelon-form,prerequisite,0.9,echelon form is reached by row operations,extracted,0
+ensemble-learning,averaging-and-voting,prerequisite,0.9,the simplest combination rules,extracted,0
+ensemble-learning,bagging,prerequisite,0.9,bagging is an ensemble scheme,extracted,0
+ensemble-learning,boosting,prerequisite,0.9,boosting is an ensemble scheme,extracted,0
+ensemble-learning,stacking,prerequisite,0.9,stacking is an ensemble scheme,extracted,0
+event,probability,prerequisite,0.95,probability is assigned to events,extracted,0
+event-space,event,prerequisite,0.95,an event is a subset of the event space,extracted,0
+event-space,random-variable,prerequisite,0.9,a random variable is a function on outcomes,extracted,0
+expected-value,accuracy,prerequisite,0.75,a metric estimated on a sample is an expectation,extracted,1
+expected-value,averaging-and-voting,prerequisite,0.8,averaging estimates an expectation,extracted,1
+expected-value,variance,prerequisite,0.95,variance is an expectation of squared deviation from the mean,extracted,0
+f1-score,holistic-evaluation,prerequisite,0.8,no single metric suffices,extracted,0
+feedforward-network,backpropagation,prerequisite,0.95,backprop propagates through the layers,extracted,0
+feedforward-network,deep-learning,prerequisite,0.9,deep learning stacks many such layers,extracted,0
+gaussian-elimination,inverse-via-jordan-gauss,prerequisite,0.9,the same elimination machinery is reused,extracted,0
+gaussian-elimination,solution-set-of-sle,prerequisite,0.85,the echelon form reveals which kind of solution set holds,extracted,0
+geometric-transformation-matrix,linear-model-thinking,prerequisite,0.7,geometry is the last piece before the wrap-up,extracted,0
+geometric-transformation-matrix,reflection,prerequisite,0.9,the general correspondence comes before the instance,extracted,0
+geometric-transformation-matrix,rotation,prerequisite,0.9,the general correspondence comes before the instance,extracted,0
+geometric-transformation-matrix,scaling,prerequisite,0.85,the general correspondence comes before the instance,extracted,0
+higher-order-derivative,convexity,prerequisite,0.85,convexity is read off the second derivative,extracted,0
+higher-order-derivative,taylors-formula,prerequisite,0.95,the formula is built from higher derivatives,extracted,0
+indefinite-integral,definite-integral,prerequisite,0.8,the definite integral is evaluated through antiderivatives,extracted,0
+inverse-matrix,inverse-2x2-formula,prerequisite,0.9,you need the definition before the closed form,extracted,0
+inverse-matrix,inverse-via-jordan-gauss,prerequisite,0.9,you need the definition before a way to compute it,extracted,0
+inverse-matrix,solving-sle-with-inverse,prerequisite,0.95,the strategy needs the inverse to exist,extracted,0
+l2-regularization,weight-decay,prerequisite,0.9,weight decay is the update-rule form of the L2 penalty,extracted,0
+lagrange-mean-value-theorem,cauchy-mean-value-theorem,prerequisite,0.85,Cauchy generalises Lagrange to two functions,extracted,0
+limit-of-function,big-o-notation,prerequisite,0.8,asymptotic comparison is a limit statement,extracted,0
+limit-of-function,continuity,prerequisite,0.9,continuity is defined through limits,extracted,0
+limit-of-function,derivative,prerequisite,0.95,the derivative is a limit of difference quotients,extracted,0
+limit-of-function,epsilon-delta-definition,prerequisite,0.9,the formal definition of the same notion,extracted,0
+limit-of-function,improper-integral,prerequisite,0.8,defined as a limit,extracted,0
+limit-of-function,one-sided-limit,prerequisite,0.9,a restriction of the two-sided limit,extracted,0
+limit-of-function,special-limits,prerequisite,0.8,the catalogue presupposes the notion,extracted,0
+limit-of-sequence,convergent-sequence,prerequisite,0.9,convergence is having a finite limit,extracted,0
+limit-of-sequence,heine-definition,prerequisite,0.9,the sequential definition is phrased through sequence limits,extracted,0
+limit-of-sequence,limit-of-function,prerequisite,0.85,the function limit generalises the sequence limit,extracted,0
+limit-of-sequence,number-e,prerequisite,0.9,e is defined as a particular sequence limit,extracted,0
+limit-of-sequence,series,prerequisite,0.9,a series is the limit of its partial sums,extracted,0
+linear-equation,system-of-linear-equations,prerequisite,0.95,a system is a collection of linear equations,extracted,0
+linear-regression,artificial-neuron,prerequisite,0.75,a neuron is a linear model plus a non-linearity,extracted,0
+linear-space,pca,prerequisite,0.8,PCA chooses a subspace of the feature space,extracted,1
+logical-operations,negation-of-claim,prerequisite,0.9,negation is one of the operations,extracted,0
+logical-operations,truth-table,prerequisite,0.9,the table tabulates the operations,extracted,0
+logical-proposition,logical-operations,prerequisite,0.95,operations combine propositions,extracted,0
+matrix,coefficient-matrix,prerequisite,0.9,the matrix of a system is a matrix first,extracted,0
+matrix,determinant,prerequisite,0.9,the determinant is computed from a square matrix,extracted,0
+matrix,matrix-addition,prerequisite,0.9,addition is defined on matrices,extracted,0
+matrix,matrix-transposition,prerequisite,0.9,transposition is defined on matrices,extracted,0
+matrix,matrix-vector-multiplication,prerequisite,0.9,the operation consumes a matrix,extracted,0
+matrix,pca,prerequisite,0.9,PCA is an eigen-decomposition of a covariance matrix,extracted,1
+matrix,special-matrices,prerequisite,0.9,special shapes are particular matrices,extracted,0
+matrix-modelling,linear-model-thinking,prerequisite,0.75,concrete modelling precedes the general habit,extracted,0
+matrix-modelling,supervised-learning,prerequisite,0.75,data is posed as a design matrix before any model is fitted,extracted,1
+matrix-multiplication,feedforward-network,prerequisite,0.9,a layer applies a weight matrix to its input,extracted,1
+matrix-multiplication,geometric-transformation-matrix,prerequisite,0.85,composing motions is multiplying their matrices,extracted,0
+matrix-multiplication,inverse-matrix,prerequisite,0.9,the inverse is defined through a product equal to the identity,extracted,0
+matrix-vector-multiplication,artificial-neuron,prerequisite,0.9,a neuron's weighted sum is a dot product,extracted,1
+matrix-vector-multiplication,geometric-transformation-matrix,prerequisite,0.9,a transformation is a matrix applied to position vectors,extracted,0
+matrix-vector-multiplication,matrix-multiplication,prerequisite,0.9,the general product generalises the vector case,extracted,0
+multiplication-rule,permutation,prerequisite,0.9,arrangements are counted by the product rule,extracted,0
+overfitting,regularization,prerequisite,0.95,regularization exists to counter overfitting,extracted,0
+overfitting,train-validation-split,prerequisite,0.95,the split exists to detect overfitting,extracted,0
+pca,nonlinear-embedding,prerequisite,0.8,the non-linear methods are motivated as alternatives to PCA,extracted,0
+permutation,combination,prerequisite,0.9,combinations remove the ordering from permutations,extracted,0
+power-series,domain-of-convergence,prerequisite,0.9,the region where the series converges,extracted,0
+power-series,taylor-series,prerequisite,0.9,the Taylor series is a power series,extracted,0
+precision,f1-score,prerequisite,0.95,F1 combines precision and recall,extracted,0
+probability,combinatorial-probability,prerequisite,0.9,the counting produces a probability,extracted,0
+probability,conditional-probability,prerequisite,0.95,conditioning restricts an existing measure,extracted,0
+probability,probability-rules,prerequisite,0.95,the rules govern the assignment,extracted,0
+probability,random-distribution,prerequisite,0.9,a distribution assigns probabilities,extracted,0
+probability,roc-auc,prerequisite,0.8,the curve is traced over predicted probabilities,extracted,1
+random-distribution,expected-value,prerequisite,0.95,the mean is computed from the distribution,extracted,0
+random-distribution,overfitting,prerequisite,0.8,overfitting is a statement about the data-generating distribution,extracted,1
+random-variable,random-distribution,prerequisite,0.95,the distribution describes the variable,extracted,0
+random-variable,supervised-learning,prerequisite,0.8,inputs and targets are modelled as random variables,extracted,1
+recall,f1-score,prerequisite,0.95,F1 combines precision and recall,extracted,0
+regression,linear-regression,prerequisite,0.9,linear regression is a regression method,extracted,0
+regularization,data-augmentation,prerequisite,0.85,augmentation regularises through the data,extracted,0
+regularization,dropout,prerequisite,0.9,dropout is a regularizer,extracted,0
+regularization,l1-regularization,prerequisite,0.95,a concrete penalty,extracted,0
+regularization,l2-regularization,prerequisite,0.95,a concrete penalty,extracted,0
+roc-auc,holistic-evaluation,prerequisite,0.8,no single metric suffices,extracted,0
+rolles-theorem,lagrange-mean-value-theorem,prerequisite,0.85,Lagrange generalises Rolle,extracted,0
+row-echelon-form,gaussian-elimination,prerequisite,0.85,you need the target shape before the algorithm that reaches it,extracted,0
+second-derivative-test,function-graphing,prerequisite,0.85,graphing uses the classification of critical points,extracted,0
+sequence,limit-of-sequence,prerequisite,0.95,a limit is taken of a sequence,extracted,0
+series,convergence-of-series,prerequisite,0.95,convergence is a property of a series,extracted,0
+series,expected-value,prerequisite,0.8,a discrete expectation is a series,extracted,1
+series,power-series,prerequisite,0.9,a power series is a series in powers of the variable,extracted,0
+set,cardinality-of-finite-set,prerequisite,0.9,counting the elements of a set,extracted,0
+set,cartesian-product,prerequisite,0.9,the product is built from sets,extracted,0
+set,euler-diagram,prerequisite,0.85,the diagram depicts sets,extracted,0
+set,event-space,prerequisite,0.9,the event space is a set of outcomes,extracted,0
+set,set-operations,prerequisite,0.95,operations act on sets,extracted,0
+set,subset,prerequisite,0.95,a subset is defined relative to a set,extracted,0
+set-operations,cardinality-of-finite-set,prerequisite,0.85,inclusion-exclusion corrects for overlaps,extracted,0
+solution-set-of-sle,linear-model-thinking,prerequisite,0.7,"the habit is the course's terminal aim, not a starting point",extracted,0
+solution-set-of-sle,matrix-modelling,prerequisite,0.75,modelling is only useful once solutions can be interpreted,extracted,0
+special-matrices,inverse-matrix,prerequisite,0.85,the definition needs the identity matrix,extracted,0
+subset,event,prerequisite,0.85,events are subsets,extracted,0
+supervised-learning,classification,prerequisite,0.95,classification is a supervised task,extracted,0
+supervised-learning,decision-tree,prerequisite,0.9,a tree is a supervised predictor,extracted,0
+supervised-learning,ensemble-learning,prerequisite,0.85,ensembles combine supervised models,extracted,0
+supervised-learning,knn,prerequisite,0.9,KNN is a supervised predictor,extracted,0
+supervised-learning,overfitting,prerequisite,0.85,overfitting is diagnosed against a supervised target,extracted,0
+supervised-learning,regression,prerequisite,0.95,regression is a supervised task,extracted,0
+supervised-learning,unsupervised-learning,prerequisite,0.75,Module 1 precedes Module 2 in the syllabus,extracted,0
+system-of-linear-equations,coefficient-matrix,prerequisite,0.9,the matrix encodes an existing system,extracted,0
+system-of-linear-equations,linear-regression,prerequisite,0.85,the normal equations are a linear system,extracted,1
+system-of-linear-equations,solution-set-of-sle,prerequisite,0.9,the set of solutions belongs to a system,extracted,0
+system-of-linear-equations,solving-sle-with-inverse,prerequisite,0.85,the strategy applies to a square system,extracted,0
+taylor-series,maclaurin-series,prerequisite,0.95,Maclaurin is Taylor at zero,extracted,0
+taylors-formula,taylor-series,prerequisite,0.95,the series is the formula carried to infinity,extracted,0
+total-probability-law,bayes-rule,prerequisite,0.9,the denominator of Bayes' rule is the total probability,extracted,0
+train-validation-split,cross-validation,prerequisite,0.95,cross-validation rotates the split,extracted,0
+unsupervised-learning,data-compression,prerequisite,0.85,compression needs no labels,extracted,0
+unsupervised-learning,dbscan,prerequisite,0.9,clustering is unsupervised,extracted,0
+unsupervised-learning,hierarchical-clustering,prerequisite,0.9,clustering is unsupervised,extracted,0
+unsupervised-learning,k-means,prerequisite,0.9,clustering is unsupervised,extracted,0
+variance,bagging,prerequisite,0.85,bagging is explicitly a variance-reduction device,extracted,1
+variance,standard-deviation,prerequisite,0.95,the deviation is the root of the variance,extracted,0
+vector,curse-of-dimensionality,prerequisite,0.8,the curse is a statement about vector dimension,extracted,1
+vector,k-means,prerequisite,0.85,centroids are averages of vectors,extracted,1
+vector,knn,prerequisite,0.85,examples are vectors and neighbours are found by distance,extracted,1
+vector,linear-space,prerequisite,0.9,the abstraction generalises concrete vectors,extracted,0
+vector,matrix-vector-multiplication,prerequisite,0.9,the operation consumes a vector,extracted,0
+vector,scalar-multiplication,prerequisite,0.9,scaling is defined on vectors,extracted,0
+vector,vector-addition,prerequisite,0.9,addition is defined on vectors,extracted,0
+baseline,holistic-evaluation,part_of,0.8,a baseline is part of an honest evaluation,extracted,0
+determinant-geometric-interpretation,determinant,part_of,0.9,the geometric reading of the same number,extracted,0
+elementary-row-operations,gaussian-elimination,part_of,0.95,elimination is a disciplined sequence of row operations,extracted,0
+inverse-2x2-formula,inverse-matrix,part_of,0.9,the closed form for the smallest case,extracted,0
+inverse-via-jordan-gauss,inverse-matrix,part_of,0.9,one way to obtain the inverse,extracted,0
+reflection,geometric-transformation-matrix,part_of,0.9,one of the transformations named in the syllabus,extracted,0
+rotation,geometric-transformation-matrix,part_of,0.9,one of the transformations named in the syllabus,extracted,0
+row-echelon-form,gaussian-elimination,part_of,0.9,echelon form is the target state of elimination,extracted,0
+scalar-multiplication,linear-space,part_of,0.9,scaling is the other defining operation,extracted,0
+scaling,geometric-transformation-matrix,part_of,0.85,the simplest transformation of the family,extracted,0
+vector-addition,linear-space,part_of,0.9,addition is one of the two defining operations,extracted,0
+bayes-rule,classification,applies_to,0.8,probabilistic classifiers apply Bayes' rule,extracted,1
+classification,decision-tree,applies_to,0.8,trees are used for classification,extracted,0
+classification,knn,applies_to,0.8,KNN is used for classification,extracted,0
+cross-validation,holistic-evaluation,applies_to,0.75,reliable estimates are part of the picture,extracted,0
+curse-of-dimensionality,knn,applies_to,0.8,distance-based methods degrade in high dimension,extracted,0
+deep-learning,dropout,applies_to,0.85,dropout is applied to networks,extracted,0
+definite-integral,convergence-tests,applies_to,0.7,the integral test is one of the criteria,extracted,0
+definite-integral,random-distribution,applies_to,0.75,continuous distributions are described by integrals,extracted,1
+determinant,inverse-matrix,applies_to,0.9,a non-zero determinant is exactly the invertibility test,extracted,0
+determinant-geometric-interpretation,reflection,applies_to,0.75,a negative determinant signals a reflection,extracted,0
+determinant-geometric-interpretation,scaling,applies_to,0.8,the determinant is the area scaling factor,extracted,0
+gaussian-elimination,linear-regression,applies_to,0.75,elimination solves the normal equations,extracted,1
+gaussian-elimination,system-of-linear-equations,applies_to,0.9,elimination is the method for solving systems,extracted,0
+linear-model-thinking,linear-regression,applies_to,0.8,the linear habit realised as a model,extracted,1
+linear-model-thinking,matrix-modelling,applies_to,0.8,the habit expresses itself as concrete modelling,extracted,0
+matrix-modelling,system-of-linear-equations,applies_to,0.8,real situations are posed as systems,extracted,0
+matrix-vector-multiplication,system-of-linear-equations,applies_to,0.8,it lets a whole system be written as one equation,extracted,0
+negation-of-claim,probability-rules,applies_to,0.7,the complement rule needs correct negation,extracted,0
+set-operations,event,applies_to,0.8,operations on events are set operations,extracted,0
+solving-sle-with-inverse,linear-regression,applies_to,0.8,least squares reduces to solving a linear system,extracted,1
+solving-sle-with-inverse,system-of-linear-equations,applies_to,0.85,an alternative solution route,extracted,0
+standard-deviation,holistic-evaluation,applies_to,0.7,a score without its spread across folds is not informative,extracted,1
+training-loop,weight-decay,applies_to,0.8,decay is applied at each update,extracted,0
+bagging,boosting,contrasts_with,0.9,parallel variance reduction versus sequential bias reduction,extracted,0
+big-o-notation,little-o-notation,contrasts_with,0.85,bounded by versus negligible relative to,extracted,0
+classification,regression,contrasts_with,0.9,discrete versus continuous target,extracted,0
+dbscan,k-means,contrasts_with,0.8,centroid-based versus density-based clustering,extracted,0
+epsilon-delta-definition,heine-definition,contrasts_with,0.85,two equivalent definitions the course compares,extracted,0
+gaussian-elimination,solving-sle-with-inverse,contrasts_with,0.85,the two strategies the syllabus asks students to compare,extracted,0
+hierarchical-clustering,k-means,contrasts_with,0.75,flat partition versus nested tree,extracted,0
+inverse-2x2-formula,inverse-via-jordan-gauss,contrasts_with,0.8,general algorithm versus closed formula,extracted,0
+l1-regularization,l2-regularization,contrasts_with,0.9,sparsity versus smooth shrinkage,extracted,0
+nonlinear-embedding,pca,contrasts_with,0.85,linear projection versus neighbourhood-preserving embedding,extracted,0
+precision,recall,contrasts_with,0.9,the standard trade-off,extracted,0
+reflection,rotation,contrasts_with,0.75,orientation-reversing versus orientation-preserving,extracted,0
+supervised-learning,unsupervised-learning,contrasts_with,0.9,with labels versus without,extracted,0
+accuracy,baseline,related,0.8,accuracy is meaningless without a baseline,extracted,0
+backpropagation,differential,related,0.65,the differential is the linearisation gradients express,extracted,1
+cartesian-product,matrix,related,0.55,a matrix is indexed by a product of row and column sets,extracted,1
+combinatorial-probability,train-validation-split,related,0.55,the split is a random selection of cases,extracted,1
+convexity,second-derivative-test,related,0.7,both concern the sign of curvature,extracted,0
+convolution-operation,geometric-transformation-matrix,related,0.6,both are matrices acting on spatial data,extracted,1
+cross-validation,independent-events,related,0.6,folds are treated as independent samples,extracted,1
+decision-tree,overfitting,related,0.7,unpruned trees overfit readily,extracted,0
+determinant,elementary-row-operations,related,0.6,row operations change the determinant in predictable ways,extracted,0
+determinant,pca,related,0.6,the determinant appears in the covariance structure,extracted,1
+geometric-transformation-matrix,linear-model-thinking,related,0.6,geometry makes the linear viewpoint visible,extracted,0
+higher-order-derivative,training-loop,related,0.6,curvature information underlies optimiser design,extracted,1
+intermediate-value-theorem,weierstrass-theorem,related,0.6,the two global theorems for continuous functions on a segment,extracted,0
+limit-of-sequence,probability,related,0.6,limiting frequency motivates the notion of probability,extracted,1
+linear-model-thinking,linear-space,related,0.65,the abstraction is what makes the habit transferable,extracted,0
+logical-operations,set-operations,related,0.7,union and intersection mirror or and and,extracted,0
+matrix,random-distribution,related,0.55,joint distributions of several variables are held in matrices,extracted,1
+matrix,vector,related,0.6,a vector is the one-column case of a matrix,extracted,0
+matrix-addition,scalar-multiplication,related,0.6,taught together as the elementwise operations,extracted,0
+matrix-transposition,special-matrices,related,0.6,symmetric matrices are defined through the transpose,extracted,0
+overfitting,variance,related,0.75,the bias-variance view of overfitting,extracted,1
+taylors-formula,training-loop,related,0.6,local polynomial approximation justifies gradient steps,extracted,1

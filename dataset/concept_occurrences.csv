@@ -1,0 +1,194 @@
+concept_slug,unit_id,rel_path,role,confidence,quote
+sequence,CALC-L01,source/Syllabus_Calculus.pdf,introduced,0.9,Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e
+limit-of-sequence,CALC-L01,source/Syllabus_Calculus.pdf,introduced,0.9,Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e
+convergent-sequence,CALC-L01,source/Syllabus_Calculus.pdf,introduced,0.9,Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e
+number-e,CALC-L01,source/Syllabus_Calculus.pdf,introduced,0.9,Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e
+limit-of-function,CALC-L02,source/Syllabus_Calculus.pdf,introduced,0.9,Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided
+epsilon-delta-definition,CALC-L02,source/Syllabus_Calculus.pdf,introduced,0.9,Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided
+heine-definition,CALC-L02,source/Syllabus_Calculus.pdf,introduced,0.9,Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided
+one-sided-limit,CALC-L02,source/Syllabus_Calculus.pdf,introduced,0.9,Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided
+big-o-notation,CALC-L03,source/Syllabus_Calculus.pdf,introduced,0.9,Big-O and little-o notation. Special limits
+little-o-notation,CALC-L03,source/Syllabus_Calculus.pdf,introduced,0.9,Big-O and little-o notation. Special limits
+special-limits,CALC-L03,source/Syllabus_Calculus.pdf,introduced,0.9,Big-O and little-o notation. Special limits
+continuity,CALC-L04,source/Syllabus_Calculus.pdf,introduced,0.9,Properties of functions continuous on a closed interval.
+intermediate-value-theorem,CALC-L04,source/Syllabus_Calculus.pdf,introduced,0.9,Cauchy’s intermediate value theorem. Weierstrass’s theorem.
+weierstrass-theorem,CALC-L04,source/Syllabus_Calculus.pdf,introduced,0.9,Cauchy’s intermediate value theorem. Weierstrass’s theorem.
+derivative,CALC-L05,source/Syllabus_Calculus.pdf,introduced,0.9,Definition of the derivative. Motivation. Differentiation rules. Properties.
+derivative,CALC-L05,source/Syllabus_Calculus.pdf,defined,0.9,Topic 2. Derivatives
+differentiation-rules,CALC-L05,source/Syllabus_Calculus.pdf,introduced,0.9,Definition of the derivative. Motivation. Differentiation rules. Properties.
+differentiable-function,CALC-L06,source/Syllabus_Calculus.pdf,introduced,0.9,"Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+rolles-theorem,CALC-L06,source/Syllabus_Calculus.pdf,introduced,0.9,"Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+lagrange-mean-value-theorem,CALC-L06,source/Syllabus_Calculus.pdf,introduced,0.9,"Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+cauchy-mean-value-theorem,CALC-L06,source/Syllabus_Calculus.pdf,introduced,0.9,"Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+differential,CALC-L07,source/Syllabus_Calculus.pdf,introduced,0.9,Differential of a function. Higher-order derivatives.
+higher-order-derivative,CALC-L07,source/Syllabus_Calculus.pdf,introduced,0.9,Differential of a function. Higher-order derivatives.
+taylors-formula,CALC-L08,source/Syllabus_Calculus.pdf,introduced,0.9,Taylor’s formula. L’Hôpital’s rule.
+lhopitals-rule,CALC-L08,source/Syllabus_Calculus.pdf,introduced,0.9,Taylor’s formula. L’Hôpital’s rule.
+convexity,CALC-L09,source/Syllabus_Calculus.pdf,introduced,0.9,Convexity. The second derivative test. Graphing functions.
+second-derivative-test,CALC-L09,source/Syllabus_Calculus.pdf,introduced,0.9,Convexity. The second derivative test. Graphing functions.
+function-graphing,CALC-L09,source/Syllabus_Calculus.pdf,introduced,0.9,Convexity. The second derivative test. Graphing functions.
+antiderivative,CALC-L10,source/Syllabus_Calculus.pdf,introduced,0.9,Antiderivative and indefinite integral. Substitution.
+antiderivative,CALC-L10,source/Syllabus_Calculus.pdf,defined,0.9,Topic 3. Integral
+indefinite-integral,CALC-L10,source/Syllabus_Calculus.pdf,introduced,0.9,Antiderivative and indefinite integral. Substitution.
+integration-by-substitution,CALC-L10,source/Syllabus_Calculus.pdf,introduced,0.9,Antiderivative and indefinite integral. Substitution.
+integration-by-parts,CALC-L11,source/Syllabus_Calculus.pdf,introduced,0.9,Integrating by parts
+definite-integral,CALC-L12,source/Syllabus_Calculus.pdf,introduced,0.9,Definite integral. Properties of the definite integral. Mean value theorem for integrals. Newton–Leibniz formula.
+mean-value-theorem-for-integrals,CALC-L12,source/Syllabus_Calculus.pdf,introduced,0.9,Definite integral. Properties of the definite integral. Mean value theorem for integrals. Newton–Leibniz formula.
+newton-leibniz-formula,CALC-L12,source/Syllabus_Calculus.pdf,introduced,0.9,Definite integral. Properties of the definite integral. Mean value theorem for integrals. Newton–Leibniz formula.
+applications-of-definite-integral,CALC-L13,source/Syllabus_Calculus.pdf,introduced,0.9,Formulas of substitution and integration by parts. Some applications of the definite integral. Improper integrals.
+improper-integral,CALC-L13,source/Syllabus_Calculus.pdf,introduced,0.9,Formulas of substitution and integration by parts. Some applications of the definite integral. Improper integrals.
+series,CALC-L14,source/Syllabus_Calculus.pdf,introduced,0.9,Series. Convergence of series. Examples. Tests for convergence of numerical series.
+series,CALC-L14,source/Syllabus_Calculus.pdf,defined,0.9,Topic 4. Series
+convergence-of-series,CALC-L14,source/Syllabus_Calculus.pdf,introduced,0.9,Series. Convergence of series. Examples. Tests for convergence of numerical series.
+convergence-tests,CALC-L14,source/Syllabus_Calculus.pdf,introduced,0.9,Series. Convergence of series. Examples. Tests for convergence of numerical series.
+power-series,CALC-L15,source/Syllabus_Calculus.pdf,introduced,0.9,Power series. Taylor series. Maclaurin series. Domains of convergence.
+taylor-series,CALC-L15,source/Syllabus_Calculus.pdf,introduced,0.9,Power series. Taylor series. Maclaurin series. Domains of convergence.
+maclaurin-series,CALC-L15,source/Syllabus_Calculus.pdf,introduced,0.9,Power series. Taylor series. Maclaurin series. Domains of convergence.
+domain-of-convergence,CALC-L15,source/Syllabus_Calculus.pdf,introduced,0.9,Power series. Taylor series. Maclaurin series. Domains of convergence.
+logical-proposition,PROB-P01,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 1. Logical propositions, true/false propositions."
+logical-operations,PROB-P02,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 2. Logical operations, truth tables."
+truth-table,PROB-P02,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 2. Logical operations, truth tables."
+negation-of-claim,PROB-P03,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 3. Building negations to claims.
+set,PROB-P04,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Sets and subsets, set operations, Euler"
+set,PROB-P04,source/Syllabus_Probability_essentials.pdf,defined,0.9,Block 1. Basics of logic and set theory
+subset,PROB-P04,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Sets and subsets, set operations, Euler"
+set-operations,PROB-P04,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Sets and subsets, set operations, Euler"
+euler-diagram,PROB-P04,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Sets and subsets, set operations, Euler"
+cardinality-of-finite-set,PROB-P05,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 5. The Number of Elements in a Finite Set.
+cartesian-product,PROB-P06,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Cartesian product, multiplication and addition"
+cartesian-product,PROB-P06,source/Syllabus_Probability_essentials.pdf,defined,0.9,Block 2. Set theory and combinatorics
+multiplication-rule,PROB-P06,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Cartesian product, multiplication and addition"
+addition-rule,PROB-P06,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Cartesian product, multiplication and addition"
+permutation,PROB-P07,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 7. Permutations and Combinations.
+combination,PROB-P07,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 7. Permutations and Combinations.
+event-space,PROB-P08,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 8. Event space, events."
+event-space,PROB-P08,source/Syllabus_Probability_essentials.pdf,defined,0.9,"Block 3. Probability, rules of probability"
+event,PROB-P08,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 8. Event space, events."
+probability,PROB-P09,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 9. Probability definition. Rules of probability.
+probability-rules,PROB-P09,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 9. Probability definition. Rules of probability.
+combinatorial-probability,PROB-P10,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Usage of combinatorics in probability word
+conditional-probability,PROB-P11,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 11. Conditional probability and independent events.
+conditional-probability,PROB-P11,source/Syllabus_Probability_essentials.pdf,defined,0.9,"Block 4. Conditional probability, independent events, Bayes’ rule"
+independent-events,PROB-P11,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 11. Conditional probability and independent events.
+total-probability-law,PROB-P12,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 12. Total probability law (chain rule).
+posterior-probability,PROB-P13,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 13. A posteriori probability, Bayes’ rule."
+bayes-rule,PROB-P13,source/Syllabus_Probability_essentials.pdf,introduced,0.9,"Preparation lecture materials 13. A posteriori probability, Bayes’ rule."
+bayes-rule,PROB-P13,source/Syllabus_Probability_essentials.pdf,defined,0.9,"Block 4. Conditional probability, independent events, Bayes’ rule"
+random-variable,PROB-P15,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Block 5. Random variables. Random distributions and their characteristics
+random-distribution,PROB-P15,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 15. Random distributions. Expected value.
+expected-value,PROB-P15,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 15. Random distributions. Expected value.
+variance,PROB-P16,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 16. Random distributions. Variance and standard
+standard-deviation,PROB-P16,source/Syllabus_Probability_essentials.pdf,introduced,0.9,Preparation lecture materials 16. Random distributions. Variance and standard
+supervised-learning,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Supervised Learning
+classification,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Classification/Regression
+regression,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Classification/Regression
+knn,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,KNN
+linear-regression,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Linear Regression
+decision-tree,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Decision Tree
+overfitting,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Overfitting and train/validation splits
+train-validation-split,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Overfitting and train/validation splits
+cross-validation,ML-M1,source/Syllabus_Machine_Learning.pdf,introduced,0.9,CV algorithm
+unsupervised-learning,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Unsupervised Learning
+data-compression,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Data compression
+curse-of-dimensionality,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,The curse of dimensionality
+pca,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"PCA, t-SNE/UMAP (briefly)"
+nonlinear-embedding,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"PCA, t-SNE/UMAP (briefly)"
+hierarchical-clustering,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"H-clustering, K-Means, DBSCAN;"
+k-means,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"H-clustering, K-Means, DBSCAN;"
+dbscan,ML-M2,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"H-clustering, K-Means, DBSCAN;"
+deep-learning,ML-M3,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Deep Learning
+artificial-neuron,ML-M3,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Artificial neuron
+feedforward-network,ML-M3,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Feed-forward, backprop, convolutional operation,"
+backpropagation,ML-M3,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Feed-forward, backprop, convolutional operation,"
+convolution-operation,ML-M3,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Feed-forward, backprop, convolutional operation,"
+training-loop,ML-M3,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Training loop
+regularization,ML-M4,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Regularization methods
+l2-regularization,ML-M4,source/Syllabus_Machine_Learning.pdf,introduced,0.9,L2 and L1 regularisation
+l1-regularization,ML-M4,source/Syllabus_Machine_Learning.pdf,introduced,0.9,L2 and L1 regularisation
+weight-decay,ML-M4,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Weight decay, dropout"
+dropout,ML-M4,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Weight decay, dropout"
+data-augmentation,ML-M4,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Data augmentation
+ensemble-learning,ML-M5,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Ensemble learning
+averaging-and-voting,ML-M5,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Basic averaging and majority vote
+bagging,ML-M5,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Bagging ensemble
+random-forest,ML-M5,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Random forest
+boosting,ML-M5,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Adaptive boosting, stacking, and blending;"
+stacking,ML-M5,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Adaptive boosting, stacking, and blending;"
+accuracy,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Accuracy, baselines"
+baseline,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Accuracy, baselines"
+confusion-matrix,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Confusion matrix, recall and precision"
+recall,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Confusion matrix, recall and precision"
+precision,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"Confusion matrix, recall and precision"
+f1-score,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"F1/Dice, ROC/AUC."
+roc-auc,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,"F1/Dice, ROC/AUC."
+holistic-evaluation,ML-M6,source/Syllabus_Machine_Learning.pdf,introduced,0.9,Holistic view
+linear-equation,LA-M1U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Topic 1: Linear equations. Systems of linear equations (SLE). Matrices of SLE. Jordan–Gauss method.
+system-of-linear-equations,LA-M1U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Problem Solving Session 1. Back to School.
+system-of-linear-equations,LA-M1U1,source/Syllabus_Linear_Algebra.pdf,defined,0.9,Topic 1: Linear equations. Systems of linear equations (SLE). Matrices of SLE. Jordan–Gauss method.
+matrix,LA-M1U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Matrices of SLE, row operations"
+matrix,LA-M1U2,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"Algebraic view on vectors, definition of a matrix (recap), special matrices"
+coefficient-matrix,LA-M1U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Matrices of SLE, row operations"
+coefficient-matrix,LA-M1U2,source/Syllabus_Linear_Algebra.pdf,defined,0.9,Topic 1: Linear equations. Systems of linear equations (SLE). Matrices of SLE. Jordan–Gauss method.
+elementary-row-operations,LA-M1U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Matrices of SLE, row operations"
+row-echelon-form,LA-M1U3,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"transform a matrix to row-echelon form using the Jordan–Gauss method, and see how this helps solve systems of equations"
+gaussian-elimination,LA-M1U3,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Problem Solving Session 3. Jordan-Gauss method
+gaussian-elimination,LA-M1U3,source/Syllabus_Linear_Algebra.pdf,applied,0.9,"transform a matrix to row-echelon form using the Jordan–Gauss method, and see how this helps solve systems of equations"
+solution-set-of-sle,LA-M2U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Applications for solutions for SLE
+matrix-modelling,LA-M2U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Applications for solutions for SLE
+matrix-modelling,LA-M2U1,source/Syllabus_Linear_Algebra.pdf,applied,0.9,"model simple real-life situations with vectors and/or matrices, for example small economic or data-analysis problems"
+system-of-linear-equations,LA-M2U2,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 5. Test Preparation.
+coefficient-matrix,LA-M2U2,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 5. Test Preparation.
+elementary-row-operations,LA-M2U2,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 5. Test Preparation.
+gaussian-elimination,LA-M2U2,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 5. Test Preparation.
+row-echelon-form,LA-M2U2,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 5. Test Preparation.
+solution-set-of-sle,LA-M2U2,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 5. Test Preparation.
+vector,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Algebraic view on vectors, definition of a matrix (recap), special matrices"
+vector-addition,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Algebraic view on vectors, definition of a matrix (recap), special matrices"
+vector-addition,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+scalar-multiplication,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Algebraic view on vectors, definition of a matrix (recap), special matrices"
+scalar-multiplication,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+linear-space,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,The concept of a linear space
+special-matrices,LA-M2U3,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Algebraic view on vectors, definition of a matrix (recap), special matrices"
+matrix-addition,LA-M3U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Operations with matrices: addition, scalar multiplication, transposition"
+matrix-addition,LA-M3U1,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+matrix-transposition,LA-M3U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Operations with matrices: addition, scalar multiplication, transposition"
+matrix-transposition,LA-M3U1,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+matrix-vector-multiplication,LA-M3U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Multiplication of matrix by vector, matrix multiplication"
+matrix-multiplication,LA-M3U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"Multiplication of matrix by vector, matrix multiplication"
+matrix-multiplication,LA-M3U2,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+vector,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+linear-space,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+matrix-addition,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+scalar-multiplication,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+matrix-transposition,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+matrix-multiplication,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+matrix-vector-multiplication,LA-M4U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 9. Test preparation.
+inverse-matrix,LA-M4U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Inverse matrix. Finding inverse matrix using Jordan-Gauss method. Explicit formula for an inverse for 2×2 matrix
+inverse-via-jordan-gauss,LA-M4U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Inverse matrix. Finding inverse matrix using Jordan-Gauss method. Explicit formula for an inverse for 2×2 matrix
+inverse-via-jordan-gauss,LA-M4U2,source/Syllabus_Linear_Algebra.pdf,applied,0.9,find an inverse matrix using the Jordan-Gauss method
+inverse-2x2-formula,LA-M4U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Inverse matrix. Finding inverse matrix using Jordan-Gauss method. Explicit formula for an inverse for 2×2 matrix
+solving-sle-with-inverse,LA-M5U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Solving SLE using the inverse matrix
+solving-sle-with-inverse,LA-M5U1,source/Syllabus_Linear_Algebra.pdf,applied,0.9,analyze and solve systems of linear equations (SLE) using different strategies
+determinant,LA-M5U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Determinant of matrix. Geometrical approach in the case of a 2×2 matrix
+determinant,LA-M5U2,source/Syllabus_Linear_Algebra.pdf,defined,0.9,"find the determinant of a square matrix and interpret what determinant can tell you, what information you can get out of it"
+determinant-geometric-interpretation,LA-M5U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Determinant of matrix. Geometrical approach in the case of a 2×2 matrix
+inverse-matrix,LA-M6U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 13. Test preparation.
+inverse-via-jordan-gauss,LA-M6U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 13. Test preparation.
+inverse-2x2-formula,LA-M6U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 13. Test preparation.
+solving-sle-with-inverse,LA-M6U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 13. Test preparation.
+determinant,LA-M6U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 13. Test preparation.
+determinant-geometric-interpretation,LA-M6U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 13. Test preparation.
+geometric-transformation-matrix,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Geometric transformations using vectors/matrices: symmetry and rotation
+geometric-transformation-matrix,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,applied,0.9,use matrix transformations to describe basic geometric transformations in the plane such as symmetry and rotation
+reflection,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Geometric transformations using vectors/matrices: symmetry and rotation
+reflection,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,defined,0.9,use matrix transformations to describe basic geometric transformations in the plane such as symmetry and rotation
+rotation,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,Geometric transformations using vectors/matrices: symmetry and rotation
+rotation,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,defined,0.9,use matrix transformations to describe basic geometric transformations in the plane such as symmetry and rotation
+scaling,LA-M6U2,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"simple geometric transformations such as reflections, rotations and scaling"
+linear-model-thinking,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,introduced,0.9,"The goal is not just to memorize procedures, but I want you to get used to thinking in terms of linear models so that later quantitative courses feel more natural and less mysterious."
+gaussian-elimination,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 15. Total recall
+matrix-multiplication,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 15. Total recall
+inverse-matrix,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 15. Total recall
+determinant,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 15. Total recall
+geometric-transformation-matrix,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 15. Total recall
+matrix-modelling,LA-M7U1,source/Syllabus_Linear_Algebra.pdf,assessed,0.85,Problem Solving Session 15. Total recall

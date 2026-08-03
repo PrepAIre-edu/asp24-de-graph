@@ -1,0 +1,6728 @@
+{
+ "courses": [
+  {
+   "course_code": "CALC",
+   "title": "Calculus (KSE)"
+  },
+  {
+   "course_code": "LA",
+   "title": "Linear Algebra Basics (KSE)"
+  },
+  {
+   "course_code": "ML",
+   "title": "Machine Learning (KSE)"
+  },
+  {
+   "course_code": "PROB",
+   "title": "Probability Essentials (KSE)"
+  }
+ ],
+ "modules": [
+  {
+   "module_code": "CALC-M1",
+   "course_code": "CALC",
+   "ordinal": 1
+  },
+  {
+   "module_code": "CALC-M2",
+   "course_code": "CALC",
+   "ordinal": 2
+  },
+  {
+   "module_code": "CALC-M3",
+   "course_code": "CALC",
+   "ordinal": 3
+  },
+  {
+   "module_code": "CALC-M4",
+   "course_code": "CALC",
+   "ordinal": 4
+  },
+  {
+   "module_code": "LA-M1",
+   "course_code": "LA",
+   "ordinal": 1
+  },
+  {
+   "module_code": "LA-M2",
+   "course_code": "LA",
+   "ordinal": 2
+  },
+  {
+   "module_code": "LA-M3",
+   "course_code": "LA",
+   "ordinal": 3
+  },
+  {
+   "module_code": "LA-M4",
+   "course_code": "LA",
+   "ordinal": 4
+  },
+  {
+   "module_code": "LA-M5",
+   "course_code": "LA",
+   "ordinal": 5
+  },
+  {
+   "module_code": "LA-M6",
+   "course_code": "LA",
+   "ordinal": 6
+  },
+  {
+   "module_code": "LA-M7",
+   "course_code": "LA",
+   "ordinal": 7
+  },
+  {
+   "module_code": "ML-M1",
+   "course_code": "ML",
+   "ordinal": 1
+  },
+  {
+   "module_code": "ML-M2",
+   "course_code": "ML",
+   "ordinal": 2
+  },
+  {
+   "module_code": "ML-M3",
+   "course_code": "ML",
+   "ordinal": 3
+  },
+  {
+   "module_code": "ML-M4",
+   "course_code": "ML",
+   "ordinal": 4
+  },
+  {
+   "module_code": "ML-M5",
+   "course_code": "ML",
+   "ordinal": 5
+  },
+  {
+   "module_code": "ML-M6",
+   "course_code": "ML",
+   "ordinal": 6
+  },
+  {
+   "module_code": "PROB-M1",
+   "course_code": "PROB",
+   "ordinal": 1
+  },
+  {
+   "module_code": "PROB-M2",
+   "course_code": "PROB",
+   "ordinal": 2
+  },
+  {
+   "module_code": "PROB-M3",
+   "course_code": "PROB",
+   "ordinal": 3
+  },
+  {
+   "module_code": "PROB-M4",
+   "course_code": "PROB",
+   "ordinal": 4
+  },
+  {
+   "module_code": "PROB-M5",
+   "course_code": "PROB",
+   "ordinal": 5
+  }
+ ],
+ "units": [
+  {
+   "unit_id": "CALC-L01",
+   "module_code": "CALC-M1",
+   "course_code": "CALC",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L02",
+   "module_code": "CALC-M1",
+   "course_code": "CALC",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L03",
+   "module_code": "CALC-M1",
+   "course_code": "CALC",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L04",
+   "module_code": "CALC-M1",
+   "course_code": "CALC",
+   "ordinal": 4,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L05",
+   "module_code": "CALC-M2",
+   "course_code": "CALC",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L06",
+   "module_code": "CALC-M2",
+   "course_code": "CALC",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L07",
+   "module_code": "CALC-M2",
+   "course_code": "CALC",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L08",
+   "module_code": "CALC-M2",
+   "course_code": "CALC",
+   "ordinal": 4,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L09",
+   "module_code": "CALC-M2",
+   "course_code": "CALC",
+   "ordinal": 5,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L10",
+   "module_code": "CALC-M3",
+   "course_code": "CALC",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L11",
+   "module_code": "CALC-M3",
+   "course_code": "CALC",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L12",
+   "module_code": "CALC-M3",
+   "course_code": "CALC",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L13",
+   "module_code": "CALC-M3",
+   "course_code": "CALC",
+   "ordinal": 4,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L14",
+   "module_code": "CALC-M4",
+   "course_code": "CALC",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "CALC-L15",
+   "module_code": "CALC-M4",
+   "course_code": "CALC",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P01",
+   "module_code": "PROB-M1",
+   "course_code": "PROB",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P02",
+   "module_code": "PROB-M1",
+   "course_code": "PROB",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P03",
+   "module_code": "PROB-M1",
+   "course_code": "PROB",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P04",
+   "module_code": "PROB-M1",
+   "course_code": "PROB",
+   "ordinal": 4,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P05",
+   "module_code": "PROB-M2",
+   "course_code": "PROB",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P06",
+   "module_code": "PROB-M2",
+   "course_code": "PROB",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P07",
+   "module_code": "PROB-M2",
+   "course_code": "PROB",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P08",
+   "module_code": "PROB-M3",
+   "course_code": "PROB",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P09",
+   "module_code": "PROB-M3",
+   "course_code": "PROB",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P10",
+   "module_code": "PROB-M3",
+   "course_code": "PROB",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P11",
+   "module_code": "PROB-M4",
+   "course_code": "PROB",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P12",
+   "module_code": "PROB-M4",
+   "course_code": "PROB",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P13",
+   "module_code": "PROB-M4",
+   "course_code": "PROB",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P15",
+   "module_code": "PROB-M5",
+   "course_code": "PROB",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "PROB-P16",
+   "module_code": "PROB-M5",
+   "course_code": "PROB",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "ML-M1",
+   "module_code": "ML-M1",
+   "course_code": "ML",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "ML-M2",
+   "module_code": "ML-M2",
+   "course_code": "ML",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "ML-M3",
+   "module_code": "ML-M3",
+   "course_code": "ML",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "ML-M4",
+   "module_code": "ML-M4",
+   "course_code": "ML",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "ML-M5",
+   "module_code": "ML-M5",
+   "course_code": "ML",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "ML-M6",
+   "module_code": "ML-M6",
+   "course_code": "ML",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M1U1",
+   "module_code": "LA-M1",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M1U2",
+   "module_code": "LA-M1",
+   "course_code": "LA",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M1U3",
+   "module_code": "LA-M1",
+   "course_code": "LA",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M2U1",
+   "module_code": "LA-M2",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M2U2",
+   "module_code": "LA-M2",
+   "course_code": "LA",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M2U3",
+   "module_code": "LA-M2",
+   "course_code": "LA",
+   "ordinal": 3,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M3U1",
+   "module_code": "LA-M3",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M3U2",
+   "module_code": "LA-M3",
+   "course_code": "LA",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M4U1",
+   "module_code": "LA-M4",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M4U2",
+   "module_code": "LA-M4",
+   "course_code": "LA",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M5U1",
+   "module_code": "LA-M5",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M5U2",
+   "module_code": "LA-M5",
+   "course_code": "LA",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M6U1",
+   "module_code": "LA-M6",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M6U2",
+   "module_code": "LA-M6",
+   "course_code": "LA",
+   "ordinal": 2,
+   "n_files": 1,
+   "chars": 0
+  },
+  {
+   "unit_id": "LA-M7U1",
+   "module_code": "LA-M7",
+   "course_code": "LA",
+   "ordinal": 1,
+   "n_files": 1,
+   "chars": 0
+  }
+ ],
+ "source_files": [
+  {
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "filename": "Syllabus_Calculus.pdf",
+   "course_code": "CALC",
+   "unit_id": "CALC-OMU0",
+   "asset_kind": "handbook",
+   "asset_ordinal": null,
+   "part_ordinal": null,
+   "bytes": 326855,
+   "sha256": "bc405c0ee02671a126a7c3bbb533079ba5e905fefba3b0bd0686193565928e52"
+  },
+  {
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "filename": "Syllabus_Linear_Algebra.pdf",
+   "course_code": "LA",
+   "unit_id": "LA-OMU0",
+   "asset_kind": "handbook",
+   "asset_ordinal": null,
+   "part_ordinal": null,
+   "bytes": 583775,
+   "sha256": "36c1849768b17ad39bccf10178b871afa665aec8a8ab535809016d5ac968c0b2"
+  },
+  {
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "filename": "Syllabus_Machine_Learning.pdf",
+   "course_code": "ML",
+   "unit_id": "ML-OMU0",
+   "asset_kind": "handbook",
+   "asset_ordinal": null,
+   "part_ordinal": null,
+   "bytes": 996896,
+   "sha256": "5fb7fb78ad3475d0c829d132f768ac7b1a6c22969f0ec40c85421ded42514905"
+  },
+  {
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "filename": "Syllabus_Probability_essentials.pdf",
+   "course_code": "PROB",
+   "unit_id": "PROB-OMU0",
+   "asset_kind": "handbook",
+   "asset_ordinal": null,
+   "part_ordinal": null,
+   "bytes": 250957,
+   "sha256": "52beb675c5389d6dec450f5132f7cdc8288b70f60ba3449459b12ae5cacef09e"
+  }
+ ],
+ "concepts": [
+  {
+   "slug": "accuracy",
+   "name": "Accuracy",
+   "kind": "metric",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "The share of predictions that are correct; misleading when classes are imbalanced.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "addition-rule",
+   "name": "Addition Rule",
+   "kind": "principle",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "When alternatives are mutually exclusive, the number of outcomes is the sum of the counts.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "antiderivative",
+   "name": "Antiderivative",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function whose derivative is the given function; differentiation run backwards.",
+   "aliases": "primitive function",
+   "courses": "CALC",
+   "units": "CALC-L10",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "applications-of-definite-integral",
+   "name": "Applications of the Definite Integral",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "Using integration to compute areas, volumes, lengths and accumulated quantities.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L13",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "artificial-neuron",
+   "name": "Artificial Neuron",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "A unit computing a weighted sum of inputs followed by a non-linear activation.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "averaging-and-voting",
+   "name": "Averaging and Majority Vote",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "The simplest combination rules: average the predicted numbers, or take the most frequent predicted class.",
+   "aliases": "basic averaging and majority vote",
+   "courses": "ML",
+   "units": "ML-M5",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "backpropagation",
+   "name": "Backpropagation",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Computing the gradient of the loss with respect to every weight by applying the chain rule backwards through the layers.",
+   "aliases": "backprop",
+   "courses": "ML",
+   "units": "ML-M3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "bagging",
+   "name": "Bagging",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Training each member on a bootstrap resample to decorrelate their errors and cut variance.",
+   "aliases": "bagging ensemble",
+   "courses": "ML",
+   "units": "ML-M5",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "baseline",
+   "name": "Baseline",
+   "kind": "principle",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "The trivial predictor any real model must beat before its score means anything.",
+   "aliases": "baselines",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "bayes-rule",
+   "name": "Bayes' Rule",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "probability",
+   "definition": "The formula inverting a conditional probability, turning likelihood and prior into posterior.",
+   "aliases": "Bayes theorem",
+   "courses": "PROB",
+   "units": "PROB-P13",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "big-o-notation",
+   "name": "Big-O Notation",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A notation bounding a function's growth from above up to a constant factor, used to compare rates of change.",
+   "aliases": "Big-O",
+   "courses": "CALC",
+   "units": "CALC-L03",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "boosting",
+   "name": "Adaptive Boosting",
+   "kind": "method",
+   "difficulty": 5,
+   "domain": "machine-learning",
+   "definition": "Fitting members in sequence, each concentrating on the examples its predecessors got wrong.",
+   "aliases": "AdaBoost",
+   "courses": "ML",
+   "units": "ML-M5",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "cardinality-of-finite-set",
+   "name": "The Number of Elements in a Finite Set",
+   "kind": "principle",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "Counting a finite set, including the inclusion–exclusion correction for overlapping parts.",
+   "aliases": "cardinality|inclusion-exclusion",
+   "courses": "PROB",
+   "units": "PROB-P05",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "cartesian-product",
+   "name": "Cartesian Product",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "The set of all ordered pairs drawn from two sets, the formal model of independent choices.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "cauchy-mean-value-theorem",
+   "name": "Cauchy Mean Value Theorem",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "A two-function generalisation of the mean value theorem, the basis for L'Hôpital's rule.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "classification",
+   "name": "Classification",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "Supervised prediction of a discrete class label.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 8,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "coefficient-matrix",
+   "name": "Matrix of a System of Linear Equations",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "linear-algebra",
+   "definition": "The matrix that holds the coefficients of an SLE, optionally augmented with the right-hand side column, so that the system can be manipulated as a single object instead of as separate equations.",
+   "aliases": "augmented matrix|matrix of SLE",
+   "courses": "LA",
+   "units": "LA-M1U2|LA-M2U2",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "combination",
+   "name": "Combination",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "A selection of objects where order does not matter; the binomial coefficient counts them.",
+   "aliases": "binomial coefficient|combinations",
+   "courses": "PROB",
+   "units": "PROB-P07",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "combinatorial-probability",
+   "name": "Combinatorics in Probability Problems",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "Computing probabilities of equally likely outcomes by counting favourable and total cases.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P10",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "conditional-probability",
+   "name": "Conditional Probability",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "The probability of an event given that another has occurred, obtained by restricting the event space.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P11",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "confusion-matrix",
+   "name": "Confusion Matrix",
+   "kind": "tool",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "The table of predicted against actual classes, from which most classification metrics are derived.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "continuity",
+   "name": "Continuity on a Closed Interval",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function is continuous on a closed interval when small changes of argument produce small changes of value throughout it, which guarantees strong global properties.",
+   "aliases": "continuous function",
+   "courses": "CALC",
+   "units": "CALC-L04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "convergence-of-series",
+   "name": "Convergence of a Series",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A series converges when its partial sums approach a finite limit.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L14",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "convergence-tests",
+   "name": "Tests for Convergence",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "The standard criteria — comparison, ratio, root, integral — for deciding convergence without summing.",
+   "aliases": "convergence criteria",
+   "courses": "CALC",
+   "units": "CALC-L14",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "convergent-sequence",
+   "name": "Convergent Sequence",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "A sequence that has a finite limit; such sequences are bounded and their limits respect arithmetic.",
+   "aliases": "properties of convergent sequences",
+   "courses": "CALC",
+   "units": "CALC-L01",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "convexity",
+   "name": "Convexity",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function is convex when its graph lies below its chords; convexity is what makes minimisation well behaved.",
+   "aliases": "concavity",
+   "courses": "CALC",
+   "units": "CALC-L09",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "convolution-operation",
+   "name": "Convolutional Operation",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Sliding a shared small filter across the input so that the same local pattern is detected anywhere.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "cross-validation",
+   "name": "Cross-Validation",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Rotating the held-out fold over the data to get a more stable performance estimate.",
+   "aliases": "CV algorithm",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "curse-of-dimensionality",
+   "name": "The Curse of Dimensionality",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "In high dimensions data becomes sparse and distances lose contrast, undermining methods that rely on proximity.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "data-augmentation",
+   "name": "Data Augmentation",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Enlarging the training set with label-preserving transformations of existing examples.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M4",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "data-compression",
+   "name": "Data Compression",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Representing data with fewer numbers while preserving what matters.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "dbscan",
+   "name": "DBSCAN",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Density-based clustering that finds arbitrarily shaped clusters and labels sparse points as noise.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "decision-tree",
+   "name": "Decision Tree",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "A predictor that splits the feature space by recursive threshold questions.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "deep-learning",
+   "name": "Deep Learning",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Learning with many-layered networks that build their own representations of the input.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "definite-integral",
+   "name": "Definite Integral",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A number attached to a function on an interval, interpretable as signed area under its graph.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L12",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 7,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "derivative",
+   "name": "Derivative",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The instantaneous rate of change of a function, defined as the limit of its difference quotient.",
+   "aliases": "derivatives",
+   "courses": "CALC",
+   "units": "CALC-L05",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 7,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "determinant",
+   "name": "Determinant",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "A single number computed from a square matrix that reports whether the matrix is invertible: a zero determinant means the transformation collapses space and cannot be undone.",
+   "aliases": "determinant of a matrix",
+   "courses": "LA",
+   "units": "LA-M5U2|LA-M6U1|LA-M7U1",
+   "n_units": 3,
+   "n_courses": 1,
+   "degree": 7,
+   "occurrence_count": 4,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "determinant-geometric-interpretation",
+   "name": "Geometric Meaning of the Determinant",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "For a 2×2 matrix the determinant is the signed area of the parallelogram spanned by its columns, so its magnitude is the area scaling factor and its sign records whether orientation is flipped.",
+   "aliases": "geometrical approach to the determinant",
+   "courses": "LA",
+   "units": "LA-M5U2|LA-M6U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "differentiable-function",
+   "name": "Differentiable Function",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function possessing a derivative at every point of an interval; differentiability implies continuity.",
+   "aliases": "differentiable functions",
+   "courses": "CALC",
+   "units": "CALC-L06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "differential",
+   "name": "Differential of a Function",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "The linear part of a function's increment, the formal expression of local linear approximation.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L07",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "differentiation-rules",
+   "name": "Differentiation Rules",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The algebraic rules — sum, product, quotient and chain — that let derivatives be computed without returning to the limit.",
+   "aliases": "chain rule|product rule",
+   "courses": "CALC",
+   "units": "CALC-L05",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "domain-of-convergence",
+   "name": "Domain of Convergence",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "The set of arguments for which a power series converges.",
+   "aliases": "domains of convergence",
+   "courses": "CALC",
+   "units": "CALC-L15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "dropout",
+   "name": "Dropout",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Randomly disabling units during training so the network cannot rely on any single path.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M4",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "elementary-row-operations",
+   "name": "Elementary Row Operations",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "linear-algebra",
+   "definition": "The three reversible moves on a matrix — swapping two rows, scaling a row by a non-zero number, and adding a multiple of one row to another — that change the matrix without changing the solution set of the system it represents.",
+   "aliases": "row operations",
+   "courses": "LA",
+   "units": "LA-M1U2|LA-M2U2",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "ensemble-learning",
+   "name": "Ensemble Learning",
+   "kind": "framework",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Combining several models so their errors partly cancel and the whole beats any part.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M5",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "epsilon-delta-definition",
+   "name": "Cauchy (ε–δ) Definition of a Limit",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "The formal definition: for every ε there is a δ such that arguments within δ of the point map to values within ε of the limit.",
+   "aliases": "Cauchy definition|epsilon-delta",
+   "courses": "CALC",
+   "units": "CALC-L02",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "euler-diagram",
+   "name": "Euler Diagram",
+   "kind": "tool",
+   "difficulty": 1,
+   "domain": "probability",
+   "definition": "A picture of sets as regions, used to reason about their overlaps.",
+   "aliases": "Euler diagrams|Venn diagram",
+   "courses": "PROB",
+   "units": "PROB-P04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "event",
+   "name": "Event",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "A subset of the event space, so that operations on events are operations on sets.",
+   "aliases": "events",
+   "courses": "PROB",
+   "units": "PROB-P08",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "event-space",
+   "name": "Event Space",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "The set of all possible outcomes of an experiment, the universe in which probability is defined.",
+   "aliases": "sample space",
+   "courses": "PROB",
+   "units": "PROB-P08",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "expected-value",
+   "name": "Expected Value",
+   "kind": "metric",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "The probability-weighted average of a random variable, its long-run mean.",
+   "aliases": "expectation|mean",
+   "courses": "PROB",
+   "units": "PROB-P15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "f1-score",
+   "name": "F1 / Dice Score",
+   "kind": "metric",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "The harmonic mean of precision and recall, a single number balancing the two.",
+   "aliases": "Dice|F1",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "feedforward-network",
+   "name": "Feed-Forward Network",
+   "kind": "framework",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "A network of neuron layers passing signals in one direction from input to output.",
+   "aliases": "feed-forward",
+   "courses": "ML",
+   "units": "ML-M3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "function-graphing",
+   "name": "Graphing Functions",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "Assembling limits, derivatives and convexity into a full qualitative picture of a function's graph.",
+   "aliases": "curve sketching",
+   "courses": "CALC",
+   "units": "CALC-L09",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "gaussian-elimination",
+   "name": "Jordan–Gauss Method (Gaussian Elimination)",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "linear-algebra",
+   "definition": "The systematic procedure of applying elementary row operations to bring a matrix to row-echelon form, and thereby to solve a system of linear equations by a fixed algorithm rather than ad-hoc tricks.",
+   "aliases": "Gaussian elimination|Jordan-Gauss method|Jordan–Gauss elimination",
+   "courses": "LA",
+   "units": "LA-M1U3|LA-M2U2|LA-M7U1",
+   "n_units": 3,
+   "n_courses": 1,
+   "degree": 9,
+   "occurrence_count": 4,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "geometric-transformation-matrix",
+   "name": "Geometric Transformations as Matrices",
+   "kind": "framework",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "The correspondence between matrices and geometric motions of the plane: applying a matrix to the coordinate vectors of a figure moves the figure, so composing motions becomes multiplying matrices.",
+   "aliases": "matrix transformations",
+   "courses": "LA",
+   "units": "LA-M6U2|LA-M7U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 11,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "heine-definition",
+   "name": "Heine (Sequential) Definition of a Limit",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "An equivalent definition of a function limit stated through the limits of all sequences approaching the point.",
+   "aliases": "sequence definition of a limit",
+   "courses": "CALC",
+   "units": "CALC-L02",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "hierarchical-clustering",
+   "name": "Hierarchical Clustering",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Building a nested tree of clusters by repeatedly merging or splitting groups.",
+   "aliases": "H-clustering",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "higher-order-derivative",
+   "name": "Higher-Order Derivative",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "The result of differentiating repeatedly; the second derivative measures curvature.",
+   "aliases": "second derivative",
+   "courses": "CALC",
+   "units": "CALC-L07",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "holistic-evaluation",
+   "name": "Holistic View of Evaluation",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Judging a model by the whole picture of metrics, baselines and error structure rather than one score.",
+   "aliases": "holistic view",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "improper-integral",
+   "name": "Improper Integral",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "An integral over an unbounded interval or of an unbounded function, defined as a limit of ordinary integrals.",
+   "aliases": "improper integrals",
+   "courses": "CALC",
+   "units": "CALC-L13",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "indefinite-integral",
+   "name": "Indefinite Integral",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "The family of all antiderivatives of a function, differing by a constant.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L10",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "independent-events",
+   "name": "Independent Events",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "Events where knowing one occurred does not change the probability of the other.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P11",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "integration-by-parts",
+   "name": "Integration by Parts",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "Trading one integral for another using the product rule in reverse.",
+   "aliases": "integrating by parts",
+   "courses": "CALC",
+   "units": "CALC-L11",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "integration-by-substitution",
+   "name": "Integration by Substitution",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "Changing variable in an integral so that it matches a known antiderivative; the chain rule reversed.",
+   "aliases": "substitution",
+   "courses": "CALC",
+   "units": "CALC-L10",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "intermediate-value-theorem",
+   "name": "Cauchy's Intermediate Value Theorem",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function continuous on a closed interval attains every value between its endpoint values.",
+   "aliases": "IVT",
+   "courses": "CALC",
+   "units": "CALC-L04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "inverse-2x2-formula",
+   "name": "Explicit Inverse Formula for a 2×2 Matrix",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "The closed-form expression that gives the inverse of a 2×2 matrix directly from its four entries and its determinant, with no elimination needed.",
+   "aliases": "2x2 inverse formula",
+   "courses": "LA",
+   "units": "LA-M4U2|LA-M6U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "inverse-matrix",
+   "name": "Inverse Matrix",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "The matrix that undoes another: multiplying a matrix by its inverse gives the identity. It exists only for square matrices that are non-degenerate.",
+   "aliases": "matrix inverse",
+   "courses": "LA",
+   "units": "LA-M4U2|LA-M6U1|LA-M7U1",
+   "n_units": 3,
+   "n_courses": 1,
+   "degree": 8,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "inverse-via-jordan-gauss",
+   "name": "Finding an Inverse by the Jordan–Gauss Method",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "Computing an inverse by row-reducing the matrix alongside the identity until the original becomes the identity and the identity becomes the inverse.",
+   "aliases": "inverse by row reduction",
+   "courses": "LA",
+   "units": "LA-M4U2|LA-M6U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "k-means",
+   "name": "K-Means",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Partitioning data into k clusters by alternately assigning points to nearest centroids and recomputing them.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "knn",
+   "name": "K-Nearest Neighbours",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "Predicting from the labels of the closest training examples, with no explicit training step.",
+   "aliases": "KNN",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "l1-regularization",
+   "name": "L1 Regularization",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Penalising the sum of absolute weights, which drives some exactly to zero and selects features.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M4",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "l2-regularization",
+   "name": "L2 Regularization",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Penalising the sum of squared weights, shrinking them smoothly toward zero.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M4",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "lagrange-mean-value-theorem",
+   "name": "Lagrange Mean Value Theorem",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "On any interval a differentiable function has a point whose derivative equals the average rate of change across the interval.",
+   "aliases": "mean value theorem",
+   "courses": "CALC",
+   "units": "CALC-L06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "lhopitals-rule",
+   "name": "L'Hôpital's Rule",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A technique for evaluating indeterminate limits by differentiating numerator and denominator separately.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L08",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "limit-of-function",
+   "name": "Limit of a Function at a Point",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The value a function approaches as its argument approaches a given point, independently of the value at that point.",
+   "aliases": "function limit",
+   "courses": "CALC",
+   "units": "CALC-L02",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 8,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "limit-of-sequence",
+   "name": "Limit of a Sequence",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The value a sequence approaches arbitrarily closely as the index grows without bound.",
+   "aliases": "sequence limit",
+   "courses": "CALC",
+   "units": "CALC-L01",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 7,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "linear-equation",
+   "name": "Linear Equation",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "linear-algebra",
+   "definition": "An equation in which every unknown appears only to the first power and is not multiplied by another unknown. It is the atom the whole course is built from.",
+   "aliases": "linear equations",
+   "courses": "LA",
+   "units": "LA-M1U1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "linear-model-thinking",
+   "name": "Thinking in Terms of Linear Models",
+   "kind": "principle",
+   "difficulty": 2,
+   "domain": "linear-algebra",
+   "definition": "The habit the course is ultimately aiming at: recognising when a situation with many quantities changing at once can be posed and solved linearly, rather than memorising procedures.",
+   "aliases": "linear models",
+   "courses": "LA",
+   "units": "LA-M7U1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 7,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "linear-regression",
+   "name": "Linear Regression",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "Fitting a linear function of the features by minimising squared error.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "linear-space",
+   "name": "Linear Space (Vector Space)",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "The abstract setting in which addition and scalar multiplication obey a fixed list of rules; recognising it is what lets the same reasoning transfer from arrows to data tables to functions.",
+   "aliases": "vector space",
+   "courses": "LA",
+   "units": "LA-M2U3|LA-M4U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "little-o-notation",
+   "name": "Little-o Notation",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A notation stating that one function is asymptotically negligible relative to another.",
+   "aliases": "little-o",
+   "courses": "CALC",
+   "units": "CALC-L03",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "logical-operations",
+   "name": "Logical Operations",
+   "kind": "method",
+   "difficulty": 1,
+   "domain": "probability",
+   "definition": "Negation, conjunction, disjunction and implication, which combine propositions into compound statements.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P02",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "logical-proposition",
+   "name": "Logical Proposition",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "probability",
+   "definition": "A statement that is definitely either true or false, the atom of formal reasoning.",
+   "aliases": "true/false propositions",
+   "courses": "PROB",
+   "units": "PROB-P01",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "maclaurin-series",
+   "name": "Maclaurin Series",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "The Taylor series taken at zero.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "matrix",
+   "name": "Matrix",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "linear-algebra",
+   "definition": "A rectangular table of numbers arranged in rows and columns, used to store coefficients, data sets or transformations compactly.",
+   "aliases": "matrices",
+   "courses": "LA",
+   "units": "LA-M1U2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 10,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "matrix-addition",
+   "name": "Matrix Addition",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Adding two matrices of identical dimensions entry by entry.",
+   "aliases": "addition of matrices",
+   "courses": "LA",
+   "units": "LA-M3U1|LA-M4U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "matrix-modelling",
+   "name": "Modelling Real Situations with Vectors and Matrices",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "The practice of translating a real problem — a small economic balance, a data-analysis task — into vectors and matrices so that it becomes a solvable system.",
+   "aliases": "applications for SLE|linear modelling",
+   "courses": "LA",
+   "units": "LA-M2U1|LA-M7U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "matrix-multiplication",
+   "name": "Matrix Multiplication",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Combining two matrices into a third whose entries are dot products of rows with columns; it corresponds to performing one transformation after another and is not commutative.",
+   "aliases": "product of matrices",
+   "courses": "LA",
+   "units": "LA-M3U2|LA-M4U1|LA-M7U1",
+   "n_units": 3,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 4,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "matrix-transposition",
+   "name": "Matrix Transposition",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Reflecting a matrix across its main diagonal so that rows become columns; the operation behind symmetric matrices and many identities.",
+   "aliases": "transpose|transposition",
+   "courses": "LA",
+   "units": "LA-M3U1|LA-M4U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "matrix-vector-multiplication",
+   "name": "Matrix–Vector Multiplication",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Applying a matrix to a vector to obtain a new vector; this is the operation that turns a matrix into a transformation and lets an SLE be written as a single equation.",
+   "aliases": "multiplication of matrix by vector",
+   "courses": "LA",
+   "units": "LA-M3U2|LA-M4U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "mean-value-theorem-for-integrals",
+   "name": "Mean Value Theorem for Integrals",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "A continuous function attains its average value over an interval at some interior point.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L12",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "multiplication-rule",
+   "name": "Multiplication Rule",
+   "kind": "principle",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "When choices are made in sequence, the number of outcomes is the product of the counts.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "negation-of-claim",
+   "name": "Building Negations to Claims",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "Turning a statement, including quantified ones, into its correct denial — the skill behind complementary events.",
+   "aliases": "negation",
+   "courses": "PROB",
+   "units": "PROB-P03",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "newton-leibniz-formula",
+   "name": "Newton–Leibniz Formula",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "The fundamental link: a definite integral equals the increment of any antiderivative across the interval.",
+   "aliases": "fundamental theorem of calculus",
+   "courses": "CALC",
+   "units": "CALC-L12",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "nonlinear-embedding",
+   "name": "t-SNE / UMAP",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Non-linear dimensionality reduction aimed at preserving local neighbourhoods for visualisation.",
+   "aliases": "UMAP|t-SNE",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "number-e",
+   "name": "The Number e",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The limit of (1+1/n)^n, the base of the natural exponential and logarithm.",
+   "aliases": "Euler's number",
+   "courses": "CALC",
+   "units": "CALC-L01",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "one-sided-limit",
+   "name": "One-Sided Limit",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The limit taken as the argument approaches a point from only the left or only the right.",
+   "aliases": "one-sided limits",
+   "courses": "CALC",
+   "units": "CALC-L02",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "overfitting",
+   "name": "Overfitting",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Fitting noise in the training data so that performance on unseen data degrades.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "pca",
+   "name": "Principal Component Analysis",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Projecting data onto the directions of greatest variance, found from the eigenstructure of its covariance matrix.",
+   "aliases": "PCA",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "permutation",
+   "name": "Permutation",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "An arrangement of objects where order matters.",
+   "aliases": "permutations",
+   "courses": "PROB",
+   "units": "PROB-P07",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "posterior-probability",
+   "name": "A Posteriori Probability",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "probability",
+   "definition": "The updated probability of a hypothesis after evidence has been observed.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P13",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "power-series",
+   "name": "Power Series",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "A series in powers of the variable, which behaves like a polynomial inside its region of convergence.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "precision",
+   "name": "Precision",
+   "kind": "metric",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "The share of predicted positives that are actually positive.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "probability",
+   "name": "Probability",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "A number between 0 and 1 assigned to an event, measuring how likely it is.",
+   "aliases": "probability definition",
+   "courses": "PROB",
+   "units": "PROB-P09",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 7,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "probability-rules",
+   "name": "Rules of Probability",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "The axioms and their consequences: complement, addition for unions, monotonicity.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P09",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "random-distribution",
+   "name": "Random Distribution",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "The assignment of probabilities to the values a random variable can take.",
+   "aliases": "probability distribution|random distributions",
+   "courses": "PROB",
+   "units": "PROB-P15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "random-forest",
+   "name": "Random Forest",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Bagged decision trees with additional random feature subsampling at each split.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M5",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "random-variable",
+   "name": "Random Variable",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "A numerical quantity whose value is determined by the outcome of a random experiment.",
+   "aliases": "random variables",
+   "courses": "PROB",
+   "units": "PROB-P15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "recall",
+   "name": "Recall",
+   "kind": "metric",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "The share of truly positive cases the model retrieves.",
+   "aliases": "sensitivity",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "reflection",
+   "name": "Reflection (Symmetry)",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "A transformation mirroring the plane across a line, expressible as a matrix and reversing orientation.",
+   "aliases": "symmetry",
+   "courses": "LA",
+   "units": "LA-M6U2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "regression",
+   "name": "Regression",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "Supervised prediction of a continuous numeric value.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "regularization",
+   "name": "Regularization",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Deliberately constraining a model to reduce overfitting at the cost of some training fit.",
+   "aliases": "regularisation",
+   "courses": "ML",
+   "units": "ML-M4",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "roc-auc",
+   "name": "ROC / AUC",
+   "kind": "metric",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "The curve of true against false positive rates over all thresholds, and the area beneath it.",
+   "aliases": "AUC|ROC",
+   "courses": "ML",
+   "units": "ML-M6",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "rolles-theorem",
+   "name": "Rolle's Theorem",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function continuous on a closed interval, differentiable inside it and equal at the endpoints has a stationary point strictly inside.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L06",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "rotation",
+   "name": "Rotation",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "A transformation turning the plane about a point by a fixed angle, expressible as a matrix built from sine and cosine.",
+   "aliases": "rotations",
+   "courses": "LA",
+   "units": "LA-M6U2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "row-echelon-form",
+   "name": "Row-Echelon Form",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "linear-algebra",
+   "definition": "A staircase shape for a matrix in which each leading entry sits strictly to the right of the one above it, making the solution of the corresponding system readable almost directly.",
+   "aliases": "echelon form",
+   "courses": "LA",
+   "units": "LA-M1U3|LA-M2U2",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "scalar-multiplication",
+   "name": "Scalar Multiplication",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Multiplying every entry of a vector or matrix by the same number, which stretches, shrinks or flips it without changing its shape.",
+   "aliases": "multiplication by a scalar",
+   "courses": "LA",
+   "units": "LA-M2U3|LA-M4U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "scaling",
+   "name": "Scaling",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "A transformation stretching or shrinking the plane along its axes, the simplest case of a matrix acting geometrically.",
+   "aliases": "stretching",
+   "courses": "LA",
+   "units": "LA-M6U2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "second-derivative-test",
+   "name": "Second Derivative Test",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "Classifying a stationary point as a minimum or maximum by the sign of the second derivative there.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L09",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "sequence",
+   "name": "Sequence",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "calculus",
+   "definition": "An ordered infinite list of numbers indexed by the natural numbers.",
+   "aliases": "sequences",
+   "courses": "CALC",
+   "units": "CALC-L01",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "series",
+   "name": "Series",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "The formal sum of infinitely many terms, studied through the limit of its partial sums.",
+   "aliases": "numerical series",
+   "courses": "CALC",
+   "units": "CALC-L14",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "set",
+   "name": "Set",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "probability",
+   "definition": "A collection of distinct objects considered as one whole.",
+   "aliases": "sets",
+   "courses": "PROB",
+   "units": "PROB-P04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "set-operations",
+   "name": "Set Operations",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "probability",
+   "definition": "Union, intersection, difference and complement, the operations mirrored later by operations on events.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "solution-set-of-sle",
+   "name": "Solution Set of an SLE",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "The full set of assignments satisfying a system: it may be empty, a single point, or an infinite family, and which case holds can be read off the row-echelon form.",
+   "aliases": "consistency of a system|solutions for SLE",
+   "courses": "LA",
+   "units": "LA-M2U1|LA-M2U2",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "solving-sle-with-inverse",
+   "name": "Solving an SLE via the Inverse Matrix",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "linear-algebra",
+   "definition": "Writing a square system as a single matrix equation and solving it by multiplying both sides by the inverse — an alternative strategy to elimination.",
+   "aliases": "matrix method for SLE",
+   "courses": "LA",
+   "units": "LA-M5U1|LA-M6U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "special-limits",
+   "name": "Special Limits",
+   "kind": "principle",
+   "difficulty": 2,
+   "domain": "calculus",
+   "definition": "The small catalogue of standard limits that serve as building blocks for evaluating harder ones.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L03",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "special-matrices",
+   "name": "Special Matrices",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Named matrix shapes that behave in particular ways — identity, zero, diagonal, square, symmetric — which act as the reference points for later operations.",
+   "aliases": "diagonal matrix|identity matrix",
+   "courses": "LA",
+   "units": "LA-M2U3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "stacking",
+   "name": "Stacking and Blending",
+   "kind": "method",
+   "difficulty": 5,
+   "domain": "machine-learning",
+   "definition": "Training a further model to combine the predictions of the base models.",
+   "aliases": "blending",
+   "courses": "ML",
+   "units": "ML-M5",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "standard-deviation",
+   "name": "Standard Deviation",
+   "kind": "metric",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "The square root of the variance, expressing spread in the units of the variable.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P16",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "subset",
+   "name": "Subset",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "probability",
+   "definition": "A set all of whose elements belong to another set.",
+   "aliases": "subsets",
+   "courses": "PROB",
+   "units": "PROB-P04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "supervised-learning",
+   "name": "Supervised Learning",
+   "kind": "definition",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "Learning a mapping from inputs to known target values using labelled examples.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 10,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "system-of-linear-equations",
+   "name": "System of Linear Equations (SLE)",
+   "kind": "definition",
+   "difficulty": 1,
+   "domain": "linear-algebra",
+   "definition": "A finite collection of linear equations that must hold simultaneously for the same set of unknowns; a solution is any assignment of values satisfying all of them at once.",
+   "aliases": "SLE|system of equations",
+   "courses": "LA",
+   "units": "LA-M1U1|LA-M2U2",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 9,
+   "occurrence_count": 3,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "taylor-series",
+   "name": "Taylor Series",
+   "kind": "definition",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "The power series generated by a function's derivatives at a point.",
+   "aliases": "",
+   "courses": "CALC",
+   "units": "CALC-L15",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "taylors-formula",
+   "name": "Taylor's Formula",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "calculus",
+   "definition": "An approximation of a smooth function near a point by a polynomial built from its derivatives, with a controlled remainder.",
+   "aliases": "Taylor expansion",
+   "courses": "CALC",
+   "units": "CALC-L08",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "total-probability-law",
+   "name": "Total Probability Law",
+   "kind": "principle",
+   "difficulty": 4,
+   "domain": "probability",
+   "definition": "Decomposing an event's probability across a partition of the event space; the chain rule of probability.",
+   "aliases": "chain rule",
+   "courses": "PROB",
+   "units": "PROB-P12",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "train-validation-split",
+   "name": "Train/Validation Split",
+   "kind": "method",
+   "difficulty": 2,
+   "domain": "machine-learning",
+   "definition": "Holding out part of the data to estimate performance on examples not used for fitting.",
+   "aliases": "train/validation splits",
+   "courses": "ML",
+   "units": "ML-M1",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 3,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "training-loop",
+   "name": "Training Loop",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "The repeated cycle of forward pass, loss evaluation, gradient computation and weight update.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 5,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "truth-table",
+   "name": "Truth Table",
+   "kind": "tool",
+   "difficulty": 1,
+   "domain": "probability",
+   "definition": "An exhaustive table of a compound statement's value for every assignment of its parts.",
+   "aliases": "truth tables",
+   "courses": "PROB",
+   "units": "PROB-P02",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 1,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "unsupervised-learning",
+   "name": "Unsupervised Learning",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "machine-learning",
+   "definition": "Finding structure in data without target labels.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M2",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 6,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  },
+  {
+   "slug": "variance",
+   "name": "Variance",
+   "kind": "metric",
+   "difficulty": 3,
+   "domain": "probability",
+   "definition": "The expected squared deviation from the mean, measuring spread.",
+   "aliases": "",
+   "courses": "PROB",
+   "units": "PROB-P16",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 4,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Probability_essentials.pdf"
+  },
+  {
+   "slug": "vector",
+   "name": "Vector",
+   "kind": "definition",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "An ordered tuple of numbers treated as a single algebraic object that can be added to another vector and scaled by a number; geometrically an arrow with direction and length.",
+   "aliases": "algebraic view on vectors|vectors",
+   "courses": "LA",
+   "units": "LA-M2U3|LA-M4U1",
+   "n_units": 2,
+   "n_courses": 1,
+   "degree": 8,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "vector-addition",
+   "name": "Vector Addition",
+   "kind": "method",
+   "difficulty": 3,
+   "domain": "linear-algebra",
+   "definition": "Adding two vectors componentwise to produce a third vector of the same size.",
+   "aliases": "addition of vectors",
+   "courses": "LA",
+   "units": "LA-M2U3",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 2,
+   "files": "source/Syllabus_Linear_Algebra.pdf"
+  },
+  {
+   "slug": "weierstrass-theorem",
+   "name": "Weierstrass's Theorem",
+   "kind": "principle",
+   "difficulty": 3,
+   "domain": "calculus",
+   "definition": "A function continuous on a closed bounded interval is bounded and attains a maximum and a minimum on it.",
+   "aliases": "extreme value theorem",
+   "courses": "CALC",
+   "units": "CALC-L04",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Calculus.pdf"
+  },
+  {
+   "slug": "weight-decay",
+   "name": "Weight Decay",
+   "kind": "method",
+   "difficulty": 4,
+   "domain": "machine-learning",
+   "definition": "Shrinking weights at every update step, the optimisation-side view of L2 penalty.",
+   "aliases": "",
+   "courses": "ML",
+   "units": "ML-M4",
+   "n_units": 1,
+   "n_courses": 1,
+   "degree": 2,
+   "occurrence_count": 1,
+   "files": "source/Syllabus_Machine_Learning.pdf"
+  }
+ ],
+ "concept_links": [
+  {
+   "src_slug": "accuracy",
+   "dst_slug": "baseline",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "a baseline is a score, so the metric comes first",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "accuracy",
+   "dst_slug": "holistic-evaluation",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the holistic view starts from single metrics",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "antiderivative",
+   "dst_slug": "indefinite-integral",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the indefinite integral is the family of antiderivatives",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "antiderivative",
+   "dst_slug": "newton-leibniz-formula",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the formula connects the two integrals",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "artificial-neuron",
+   "dst_slug": "feedforward-network",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a network is built from neurons",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "averaging-and-voting",
+   "dst_slug": "stacking",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "stacking learns the combination instead of fixing it",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "backpropagation",
+   "dst_slug": "training-loop",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the loop applies the gradients backprop computes",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "bagging",
+   "dst_slug": "random-forest",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a forest is bagged trees",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "bayes-rule",
+   "dst_slug": "posterior-probability",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the rule computes the posterior",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "big-o-notation",
+   "dst_slug": "little-o-notation",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "little-o is introduced against big-O in the same lecture",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "cardinality-of-finite-set",
+   "dst_slug": "addition-rule",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the rule counts a disjoint union",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "cartesian-product",
+   "dst_slug": "multiplication-rule",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the rule counts the product set",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "cauchy-mean-value-theorem",
+   "dst_slug": "lhopitals-rule",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the rule is proved from Cauchy's theorem",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "classification",
+   "dst_slug": "accuracy",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "accuracy scores a classifier",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "classification",
+   "dst_slug": "confusion-matrix",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the matrix tabulates classifier outcomes",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "coefficient-matrix",
+   "dst_slug": "elementary-row-operations",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "row operations act on the matrix of the system",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "combination",
+   "dst_slug": "combinatorial-probability",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "counting favourable cases uses combinatorics",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "conditional-probability",
+   "dst_slug": "bayes-rule",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the rule inverts a conditional probability",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "conditional-probability",
+   "dst_slug": "classification",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "a classifier estimates the class probability given the features",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "conditional-probability",
+   "dst_slug": "independent-events",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "independence is defined through conditioning",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "conditional-probability",
+   "dst_slug": "total-probability-law",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the law sums conditional probabilities",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "confusion-matrix",
+   "dst_slug": "precision",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "precision is read off the matrix",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "confusion-matrix",
+   "dst_slug": "recall",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "recall is read off the matrix",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "confusion-matrix",
+   "dst_slug": "roc-auc",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the curve is traced by moving the threshold",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "continuity",
+   "dst_slug": "differentiable-function",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "differentiability is the stronger condition",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "continuity",
+   "dst_slug": "intermediate-value-theorem",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the hypothesis of the theorem",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "continuity",
+   "dst_slug": "weierstrass-theorem",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the hypothesis of the theorem",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "convergence-of-series",
+   "dst_slug": "convergence-tests",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the tests decide convergence",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "convergence-of-series",
+   "dst_slug": "domain-of-convergence",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the domain is where convergence holds",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "convergence-of-series",
+   "dst_slug": "expected-value",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "the expectation exists only if the series converges",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "convexity",
+   "dst_slug": "function-graphing",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the shape of the graph follows from convexity",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "convexity",
+   "dst_slug": "second-derivative-test",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the test applies the convexity criterion",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "convexity",
+   "dst_slug": "training-loop",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "convexity determines whether gradient descent finds a global optimum",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "curse-of-dimensionality",
+   "dst_slug": "data-compression",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "compression is the response to high dimension",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "data-compression",
+   "dst_slug": "pca",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "PCA is the linear compression method",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "decision-tree",
+   "dst_slug": "random-forest",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the members are decision trees",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "deep-learning",
+   "dst_slug": "convolution-operation",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "convolution is a deep-learning layer type",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "definite-integral",
+   "dst_slug": "applications-of-definite-integral",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "applications presuppose the object",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "definite-integral",
+   "dst_slug": "improper-integral",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the improper case is a limit of proper integrals",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "definite-integral",
+   "dst_slug": "mean-value-theorem-for-integrals",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a statement about the definite integral",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "definite-integral",
+   "dst_slug": "newton-leibniz-formula",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the formula evaluates the definite integral",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "derivative",
+   "dst_slug": "antiderivative",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the antiderivative inverts differentiation",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "derivative",
+   "dst_slug": "backpropagation",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "backprop is the chain rule applied to a network",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "derivative",
+   "dst_slug": "differentiable-function",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "having a derivative everywhere on an interval",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "derivative",
+   "dst_slug": "differential",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the differential is the derivative times the increment",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "derivative",
+   "dst_slug": "differentiation-rules",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "rules for computing what has been defined",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "derivative",
+   "dst_slug": "higher-order-derivative",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "obtained by iterating differentiation",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant",
+   "dst_slug": "determinant-geometric-interpretation",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the number comes before its geometric reading",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant",
+   "dst_slug": "inverse-2x2-formula",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the closed formula divides by the determinant",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "differentiable-function",
+   "dst_slug": "rolles-theorem",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the hypothesis of the theorem",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "differentiation-rules",
+   "dst_slug": "backpropagation",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the chain rule is exactly what backprop implements",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "differentiation-rules",
+   "dst_slug": "integration-by-parts",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "parts is the product rule reversed",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "differentiation-rules",
+   "dst_slug": "integration-by-substitution",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "substitution is the chain rule reversed",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "elementary-row-operations",
+   "dst_slug": "gaussian-elimination",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the algorithm is built out of row operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "elementary-row-operations",
+   "dst_slug": "row-echelon-form",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "echelon form is reached by row operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "ensemble-learning",
+   "dst_slug": "averaging-and-voting",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the simplest combination rules",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "ensemble-learning",
+   "dst_slug": "bagging",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "bagging is an ensemble scheme",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "ensemble-learning",
+   "dst_slug": "boosting",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "boosting is an ensemble scheme",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "ensemble-learning",
+   "dst_slug": "stacking",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "stacking is an ensemble scheme",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "event",
+   "dst_slug": "probability",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "probability is assigned to events",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "event-space",
+   "dst_slug": "event",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "an event is a subset of the event space",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "event-space",
+   "dst_slug": "random-variable",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a random variable is a function on outcomes",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "expected-value",
+   "dst_slug": "accuracy",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "a metric estimated on a sample is an expectation",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "expected-value",
+   "dst_slug": "averaging-and-voting",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "averaging estimates an expectation",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "expected-value",
+   "dst_slug": "variance",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "variance is an expectation of squared deviation from the mean",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "f1-score",
+   "dst_slug": "holistic-evaluation",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "no single metric suffices",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "feedforward-network",
+   "dst_slug": "backpropagation",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "backprop propagates through the layers",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "feedforward-network",
+   "dst_slug": "deep-learning",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "deep learning stacks many such layers",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "gaussian-elimination",
+   "dst_slug": "inverse-via-jordan-gauss",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the same elimination machinery is reused",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "gaussian-elimination",
+   "dst_slug": "solution-set-of-sle",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the echelon form reveals which kind of solution set holds",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "geometric-transformation-matrix",
+   "dst_slug": "linear-model-thinking",
+   "type": "prerequisite",
+   "strength": 0.7,
+   "rationale": "geometry is the last piece before the wrap-up",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "geometric-transformation-matrix",
+   "dst_slug": "reflection",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the general correspondence comes before the instance",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "geometric-transformation-matrix",
+   "dst_slug": "rotation",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the general correspondence comes before the instance",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "geometric-transformation-matrix",
+   "dst_slug": "scaling",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the general correspondence comes before the instance",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "higher-order-derivative",
+   "dst_slug": "convexity",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "convexity is read off the second derivative",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "higher-order-derivative",
+   "dst_slug": "taylors-formula",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the formula is built from higher derivatives",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "indefinite-integral",
+   "dst_slug": "definite-integral",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the definite integral is evaluated through antiderivatives",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "inverse-matrix",
+   "dst_slug": "inverse-2x2-formula",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "you need the definition before the closed form",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "inverse-matrix",
+   "dst_slug": "inverse-via-jordan-gauss",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "you need the definition before a way to compute it",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "inverse-matrix",
+   "dst_slug": "solving-sle-with-inverse",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the strategy needs the inverse to exist",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "l2-regularization",
+   "dst_slug": "weight-decay",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "weight decay is the update-rule form of the L2 penalty",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "lagrange-mean-value-theorem",
+   "dst_slug": "cauchy-mean-value-theorem",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "Cauchy generalises Lagrange to two functions",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "big-o-notation",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "asymptotic comparison is a limit statement",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "continuity",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "continuity is defined through limits",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "derivative",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the derivative is a limit of difference quotients",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "epsilon-delta-definition",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the formal definition of the same notion",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "improper-integral",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "defined as a limit",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "one-sided-limit",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a restriction of the two-sided limit",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-function",
+   "dst_slug": "special-limits",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the catalogue presupposes the notion",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-sequence",
+   "dst_slug": "convergent-sequence",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "convergence is having a finite limit",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-sequence",
+   "dst_slug": "heine-definition",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the sequential definition is phrased through sequence limits",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-sequence",
+   "dst_slug": "limit-of-function",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the function limit generalises the sequence limit",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-sequence",
+   "dst_slug": "number-e",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "e is defined as a particular sequence limit",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-sequence",
+   "dst_slug": "series",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a series is the limit of its partial sums",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "linear-equation",
+   "dst_slug": "system-of-linear-equations",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a system is a collection of linear equations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "linear-regression",
+   "dst_slug": "artificial-neuron",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "a neuron is a linear model plus a non-linearity",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "linear-space",
+   "dst_slug": "pca",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "PCA chooses a subspace of the feature space",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "logical-operations",
+   "dst_slug": "negation-of-claim",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "negation is one of the operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "logical-operations",
+   "dst_slug": "truth-table",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the table tabulates the operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "logical-proposition",
+   "dst_slug": "logical-operations",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "operations combine propositions",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "coefficient-matrix",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the matrix of a system is a matrix first",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "determinant",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the determinant is computed from a square matrix",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "matrix-addition",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "addition is defined on matrices",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "matrix-transposition",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "transposition is defined on matrices",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "matrix-vector-multiplication",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the operation consumes a matrix",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "pca",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "PCA is an eigen-decomposition of a covariance matrix",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "special-matrices",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "special shapes are particular matrices",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-modelling",
+   "dst_slug": "linear-model-thinking",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "concrete modelling precedes the general habit",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-modelling",
+   "dst_slug": "supervised-learning",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "data is posed as a design matrix before any model is fitted",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "matrix-multiplication",
+   "dst_slug": "feedforward-network",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a layer applies a weight matrix to its input",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "matrix-multiplication",
+   "dst_slug": "geometric-transformation-matrix",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "composing motions is multiplying their matrices",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-multiplication",
+   "dst_slug": "inverse-matrix",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the inverse is defined through a product equal to the identity",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-vector-multiplication",
+   "dst_slug": "artificial-neuron",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a neuron's weighted sum is a dot product",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "matrix-vector-multiplication",
+   "dst_slug": "geometric-transformation-matrix",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a transformation is a matrix applied to position vectors",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-vector-multiplication",
+   "dst_slug": "matrix-multiplication",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the general product generalises the vector case",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "multiplication-rule",
+   "dst_slug": "permutation",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "arrangements are counted by the product rule",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "overfitting",
+   "dst_slug": "regularization",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "regularization exists to counter overfitting",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "overfitting",
+   "dst_slug": "train-validation-split",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the split exists to detect overfitting",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "pca",
+   "dst_slug": "nonlinear-embedding",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the non-linear methods are motivated as alternatives to PCA",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "permutation",
+   "dst_slug": "combination",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "combinations remove the ordering from permutations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "power-series",
+   "dst_slug": "domain-of-convergence",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the region where the series converges",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "power-series",
+   "dst_slug": "taylor-series",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the Taylor series is a power series",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "precision",
+   "dst_slug": "f1-score",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "F1 combines precision and recall",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "probability",
+   "dst_slug": "combinatorial-probability",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the counting produces a probability",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "probability",
+   "dst_slug": "conditional-probability",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "conditioning restricts an existing measure",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "probability",
+   "dst_slug": "probability-rules",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the rules govern the assignment",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "probability",
+   "dst_slug": "random-distribution",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a distribution assigns probabilities",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "probability",
+   "dst_slug": "roc-auc",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the curve is traced over predicted probabilities",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "random-distribution",
+   "dst_slug": "expected-value",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the mean is computed from the distribution",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "random-distribution",
+   "dst_slug": "overfitting",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "overfitting is a statement about the data-generating distribution",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "random-variable",
+   "dst_slug": "random-distribution",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the distribution describes the variable",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "random-variable",
+   "dst_slug": "supervised-learning",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "inputs and targets are modelled as random variables",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "recall",
+   "dst_slug": "f1-score",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "F1 combines precision and recall",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "regression",
+   "dst_slug": "linear-regression",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "linear regression is a regression method",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "regularization",
+   "dst_slug": "data-augmentation",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "augmentation regularises through the data",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "regularization",
+   "dst_slug": "dropout",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "dropout is a regularizer",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "regularization",
+   "dst_slug": "l1-regularization",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a concrete penalty",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "regularization",
+   "dst_slug": "l2-regularization",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a concrete penalty",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "roc-auc",
+   "dst_slug": "holistic-evaluation",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "no single metric suffices",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "rolles-theorem",
+   "dst_slug": "lagrange-mean-value-theorem",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "Lagrange generalises Rolle",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "row-echelon-form",
+   "dst_slug": "gaussian-elimination",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "you need the target shape before the algorithm that reaches it",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "second-derivative-test",
+   "dst_slug": "function-graphing",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "graphing uses the classification of critical points",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "sequence",
+   "dst_slug": "limit-of-sequence",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a limit is taken of a sequence",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "series",
+   "dst_slug": "convergence-of-series",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "convergence is a property of a series",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "series",
+   "dst_slug": "expected-value",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "a discrete expectation is a series",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "series",
+   "dst_slug": "power-series",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a power series is a series in powers of the variable",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set",
+   "dst_slug": "cardinality-of-finite-set",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "counting the elements of a set",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set",
+   "dst_slug": "cartesian-product",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the product is built from sets",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set",
+   "dst_slug": "euler-diagram",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the diagram depicts sets",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set",
+   "dst_slug": "event-space",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the event space is a set of outcomes",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set",
+   "dst_slug": "set-operations",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "operations act on sets",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set",
+   "dst_slug": "subset",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "a subset is defined relative to a set",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set-operations",
+   "dst_slug": "cardinality-of-finite-set",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "inclusion-exclusion corrects for overlaps",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "solution-set-of-sle",
+   "dst_slug": "linear-model-thinking",
+   "type": "prerequisite",
+   "strength": 0.7,
+   "rationale": "the habit is the course's terminal aim, not a starting point",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "solution-set-of-sle",
+   "dst_slug": "matrix-modelling",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "modelling is only useful once solutions can be interpreted",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "special-matrices",
+   "dst_slug": "inverse-matrix",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the definition needs the identity matrix",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "subset",
+   "dst_slug": "event",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "events are subsets",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "classification",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "classification is a supervised task",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "decision-tree",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "a tree is a supervised predictor",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "ensemble-learning",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "ensembles combine supervised models",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "knn",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "KNN is a supervised predictor",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "overfitting",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "overfitting is diagnosed against a supervised target",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "regression",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "regression is a supervised task",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "unsupervised-learning",
+   "type": "prerequisite",
+   "strength": 0.75,
+   "rationale": "Module 1 precedes Module 2 in the syllabus",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "system-of-linear-equations",
+   "dst_slug": "coefficient-matrix",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the matrix encodes an existing system",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "system-of-linear-equations",
+   "dst_slug": "linear-regression",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the normal equations are a linear system",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "system-of-linear-equations",
+   "dst_slug": "solution-set-of-sle",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the set of solutions belongs to a system",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "system-of-linear-equations",
+   "dst_slug": "solving-sle-with-inverse",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "the strategy applies to a square system",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "taylor-series",
+   "dst_slug": "maclaurin-series",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "Maclaurin is Taylor at zero",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "taylors-formula",
+   "dst_slug": "taylor-series",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the series is the formula carried to infinity",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "total-probability-law",
+   "dst_slug": "bayes-rule",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the denominator of Bayes' rule is the total probability",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "train-validation-split",
+   "dst_slug": "cross-validation",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "cross-validation rotates the split",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "unsupervised-learning",
+   "dst_slug": "data-compression",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "compression needs no labels",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "unsupervised-learning",
+   "dst_slug": "dbscan",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "clustering is unsupervised",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "unsupervised-learning",
+   "dst_slug": "hierarchical-clustering",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "clustering is unsupervised",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "unsupervised-learning",
+   "dst_slug": "k-means",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "clustering is unsupervised",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "variance",
+   "dst_slug": "bagging",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "bagging is explicitly a variance-reduction device",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "variance",
+   "dst_slug": "standard-deviation",
+   "type": "prerequisite",
+   "strength": 0.95,
+   "rationale": "the deviation is the root of the variance",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "curse-of-dimensionality",
+   "type": "prerequisite",
+   "strength": 0.8,
+   "rationale": "the curse is a statement about vector dimension",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "k-means",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "centroids are averages of vectors",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "knn",
+   "type": "prerequisite",
+   "strength": 0.85,
+   "rationale": "examples are vectors and neighbours are found by distance",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "linear-space",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the abstraction generalises concrete vectors",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "matrix-vector-multiplication",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "the operation consumes a vector",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "scalar-multiplication",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "scaling is defined on vectors",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "vector",
+   "dst_slug": "vector-addition",
+   "type": "prerequisite",
+   "strength": 0.9,
+   "rationale": "addition is defined on vectors",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "baseline",
+   "dst_slug": "holistic-evaluation",
+   "type": "part_of",
+   "strength": 0.8,
+   "rationale": "a baseline is part of an honest evaluation",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant-geometric-interpretation",
+   "dst_slug": "determinant",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "the geometric reading of the same number",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "elementary-row-operations",
+   "dst_slug": "gaussian-elimination",
+   "type": "part_of",
+   "strength": 0.95,
+   "rationale": "elimination is a disciplined sequence of row operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "inverse-2x2-formula",
+   "dst_slug": "inverse-matrix",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "the closed form for the smallest case",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "inverse-via-jordan-gauss",
+   "dst_slug": "inverse-matrix",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "one way to obtain the inverse",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "reflection",
+   "dst_slug": "geometric-transformation-matrix",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "one of the transformations named in the syllabus",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "rotation",
+   "dst_slug": "geometric-transformation-matrix",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "one of the transformations named in the syllabus",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "row-echelon-form",
+   "dst_slug": "gaussian-elimination",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "echelon form is the target state of elimination",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "scalar-multiplication",
+   "dst_slug": "linear-space",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "scaling is the other defining operation",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "scaling",
+   "dst_slug": "geometric-transformation-matrix",
+   "type": "part_of",
+   "strength": 0.85,
+   "rationale": "the simplest transformation of the family",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "vector-addition",
+   "dst_slug": "linear-space",
+   "type": "part_of",
+   "strength": 0.9,
+   "rationale": "addition is one of the two defining operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "bayes-rule",
+   "dst_slug": "classification",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "probabilistic classifiers apply Bayes' rule",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "classification",
+   "dst_slug": "decision-tree",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "trees are used for classification",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "classification",
+   "dst_slug": "knn",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "KNN is used for classification",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "cross-validation",
+   "dst_slug": "holistic-evaluation",
+   "type": "applies_to",
+   "strength": 0.75,
+   "rationale": "reliable estimates are part of the picture",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "curse-of-dimensionality",
+   "dst_slug": "knn",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "distance-based methods degrade in high dimension",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "deep-learning",
+   "dst_slug": "dropout",
+   "type": "applies_to",
+   "strength": 0.85,
+   "rationale": "dropout is applied to networks",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "definite-integral",
+   "dst_slug": "convergence-tests",
+   "type": "applies_to",
+   "strength": 0.7,
+   "rationale": "the integral test is one of the criteria",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "definite-integral",
+   "dst_slug": "random-distribution",
+   "type": "applies_to",
+   "strength": 0.75,
+   "rationale": "continuous distributions are described by integrals",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "determinant",
+   "dst_slug": "inverse-matrix",
+   "type": "applies_to",
+   "strength": 0.9,
+   "rationale": "a non-zero determinant is exactly the invertibility test",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant-geometric-interpretation",
+   "dst_slug": "reflection",
+   "type": "applies_to",
+   "strength": 0.75,
+   "rationale": "a negative determinant signals a reflection",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant-geometric-interpretation",
+   "dst_slug": "scaling",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "the determinant is the area scaling factor",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "gaussian-elimination",
+   "dst_slug": "linear-regression",
+   "type": "applies_to",
+   "strength": 0.75,
+   "rationale": "elimination solves the normal equations",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "gaussian-elimination",
+   "dst_slug": "system-of-linear-equations",
+   "type": "applies_to",
+   "strength": 0.9,
+   "rationale": "elimination is the method for solving systems",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "linear-model-thinking",
+   "dst_slug": "linear-regression",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "the linear habit realised as a model",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "linear-model-thinking",
+   "dst_slug": "matrix-modelling",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "the habit expresses itself as concrete modelling",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-modelling",
+   "dst_slug": "system-of-linear-equations",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "real situations are posed as systems",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-vector-multiplication",
+   "dst_slug": "system-of-linear-equations",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "it lets a whole system be written as one equation",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "negation-of-claim",
+   "dst_slug": "probability-rules",
+   "type": "applies_to",
+   "strength": 0.7,
+   "rationale": "the complement rule needs correct negation",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "set-operations",
+   "dst_slug": "event",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "operations on events are set operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "solving-sle-with-inverse",
+   "dst_slug": "linear-regression",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "least squares reduces to solving a linear system",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "solving-sle-with-inverse",
+   "dst_slug": "system-of-linear-equations",
+   "type": "applies_to",
+   "strength": 0.85,
+   "rationale": "an alternative solution route",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "standard-deviation",
+   "dst_slug": "holistic-evaluation",
+   "type": "applies_to",
+   "strength": 0.7,
+   "rationale": "a score without its spread across folds is not informative",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "training-loop",
+   "dst_slug": "weight-decay",
+   "type": "applies_to",
+   "strength": 0.8,
+   "rationale": "decay is applied at each update",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "bagging",
+   "dst_slug": "boosting",
+   "type": "contrasts_with",
+   "strength": 0.9,
+   "rationale": "parallel variance reduction versus sequential bias reduction",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "big-o-notation",
+   "dst_slug": "little-o-notation",
+   "type": "contrasts_with",
+   "strength": 0.85,
+   "rationale": "bounded by versus negligible relative to",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "classification",
+   "dst_slug": "regression",
+   "type": "contrasts_with",
+   "strength": 0.9,
+   "rationale": "discrete versus continuous target",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "dbscan",
+   "dst_slug": "k-means",
+   "type": "contrasts_with",
+   "strength": 0.8,
+   "rationale": "centroid-based versus density-based clustering",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "epsilon-delta-definition",
+   "dst_slug": "heine-definition",
+   "type": "contrasts_with",
+   "strength": 0.85,
+   "rationale": "two equivalent definitions the course compares",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "gaussian-elimination",
+   "dst_slug": "solving-sle-with-inverse",
+   "type": "contrasts_with",
+   "strength": 0.85,
+   "rationale": "the two strategies the syllabus asks students to compare",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "hierarchical-clustering",
+   "dst_slug": "k-means",
+   "type": "contrasts_with",
+   "strength": 0.75,
+   "rationale": "flat partition versus nested tree",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "inverse-2x2-formula",
+   "dst_slug": "inverse-via-jordan-gauss",
+   "type": "contrasts_with",
+   "strength": 0.8,
+   "rationale": "general algorithm versus closed formula",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "l1-regularization",
+   "dst_slug": "l2-regularization",
+   "type": "contrasts_with",
+   "strength": 0.9,
+   "rationale": "sparsity versus smooth shrinkage",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "nonlinear-embedding",
+   "dst_slug": "pca",
+   "type": "contrasts_with",
+   "strength": 0.85,
+   "rationale": "linear projection versus neighbourhood-preserving embedding",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "precision",
+   "dst_slug": "recall",
+   "type": "contrasts_with",
+   "strength": 0.9,
+   "rationale": "the standard trade-off",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "reflection",
+   "dst_slug": "rotation",
+   "type": "contrasts_with",
+   "strength": 0.75,
+   "rationale": "orientation-reversing versus orientation-preserving",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "supervised-learning",
+   "dst_slug": "unsupervised-learning",
+   "type": "contrasts_with",
+   "strength": 0.9,
+   "rationale": "with labels versus without",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "accuracy",
+   "dst_slug": "baseline",
+   "type": "related",
+   "strength": 0.8,
+   "rationale": "accuracy is meaningless without a baseline",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "backpropagation",
+   "dst_slug": "differential",
+   "type": "related",
+   "strength": 0.65,
+   "rationale": "the differential is the linearisation gradients express",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "cartesian-product",
+   "dst_slug": "matrix",
+   "type": "related",
+   "strength": 0.55,
+   "rationale": "a matrix is indexed by a product of row and column sets",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "combinatorial-probability",
+   "dst_slug": "train-validation-split",
+   "type": "related",
+   "strength": 0.55,
+   "rationale": "the split is a random selection of cases",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "convexity",
+   "dst_slug": "second-derivative-test",
+   "type": "related",
+   "strength": 0.7,
+   "rationale": "both concern the sign of curvature",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "convolution-operation",
+   "dst_slug": "geometric-transformation-matrix",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "both are matrices acting on spatial data",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "cross-validation",
+   "dst_slug": "independent-events",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "folds are treated as independent samples",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "decision-tree",
+   "dst_slug": "overfitting",
+   "type": "related",
+   "strength": 0.7,
+   "rationale": "unpruned trees overfit readily",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant",
+   "dst_slug": "elementary-row-operations",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "row operations change the determinant in predictable ways",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "determinant",
+   "dst_slug": "pca",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "the determinant appears in the covariance structure",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "geometric-transformation-matrix",
+   "dst_slug": "linear-model-thinking",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "geometry makes the linear viewpoint visible",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "higher-order-derivative",
+   "dst_slug": "training-loop",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "curvature information underlies optimiser design",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "intermediate-value-theorem",
+   "dst_slug": "weierstrass-theorem",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "the two global theorems for continuous functions on a segment",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "limit-of-sequence",
+   "dst_slug": "probability",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "limiting frequency motivates the notion of probability",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "linear-model-thinking",
+   "dst_slug": "linear-space",
+   "type": "related",
+   "strength": 0.65,
+   "rationale": "the abstraction is what makes the habit transferable",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "logical-operations",
+   "dst_slug": "set-operations",
+   "type": "related",
+   "strength": 0.7,
+   "rationale": "union and intersection mirror or and and",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "random-distribution",
+   "type": "related",
+   "strength": 0.55,
+   "rationale": "joint distributions of several variables are held in matrices",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "matrix",
+   "dst_slug": "vector",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "a vector is the one-column case of a matrix",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-addition",
+   "dst_slug": "scalar-multiplication",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "taught together as the elementwise operations",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "matrix-transposition",
+   "dst_slug": "special-matrices",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "symmetric matrices are defined through the transpose",
+   "origin": "extracted",
+   "cross_course": 0
+  },
+  {
+   "src_slug": "overfitting",
+   "dst_slug": "variance",
+   "type": "related",
+   "strength": 0.75,
+   "rationale": "the bias-variance view of overfitting",
+   "origin": "extracted",
+   "cross_course": 1
+  },
+  {
+   "src_slug": "taylors-formula",
+   "dst_slug": "training-loop",
+   "type": "related",
+   "strength": 0.6,
+   "rationale": "local polynomial approximation justifies gradient steps",
+   "origin": "extracted",
+   "cross_course": 1
+  }
+ ],
+ "concept_occurrences": [
+  {
+   "concept_slug": "sequence",
+   "unit_id": "CALC-L01",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e"
+  },
+  {
+   "concept_slug": "limit-of-sequence",
+   "unit_id": "CALC-L01",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e"
+  },
+  {
+   "concept_slug": "convergent-sequence",
+   "unit_id": "CALC-L01",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e"
+  },
+  {
+   "concept_slug": "number-e",
+   "unit_id": "CALC-L01",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sequences. Examples. Limit of sequence. Properties of convergent sequences. Number e"
+  },
+  {
+   "concept_slug": "limit-of-function",
+   "unit_id": "CALC-L02",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided"
+  },
+  {
+   "concept_slug": "epsilon-delta-definition",
+   "unit_id": "CALC-L02",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided"
+  },
+  {
+   "concept_slug": "heine-definition",
+   "unit_id": "CALC-L02",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided"
+  },
+  {
+   "concept_slug": "one-sided-limit",
+   "unit_id": "CALC-L02",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Limit of a function at a point. Cauchy (ε–δ) definition and Heine (sequence) definition. Properties of limits. One-sided"
+  },
+  {
+   "concept_slug": "big-o-notation",
+   "unit_id": "CALC-L03",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Big-O and little-o notation. Special limits"
+  },
+  {
+   "concept_slug": "little-o-notation",
+   "unit_id": "CALC-L03",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Big-O and little-o notation. Special limits"
+  },
+  {
+   "concept_slug": "special-limits",
+   "unit_id": "CALC-L03",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Big-O and little-o notation. Special limits"
+  },
+  {
+   "concept_slug": "continuity",
+   "unit_id": "CALC-L04",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Properties of functions continuous on a closed interval."
+  },
+  {
+   "concept_slug": "intermediate-value-theorem",
+   "unit_id": "CALC-L04",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Cauchy’s intermediate value theorem. Weierstrass’s theorem."
+  },
+  {
+   "concept_slug": "weierstrass-theorem",
+   "unit_id": "CALC-L04",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Cauchy’s intermediate value theorem. Weierstrass’s theorem."
+  },
+  {
+   "concept_slug": "derivative",
+   "unit_id": "CALC-L05",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Definition of the derivative. Motivation. Differentiation rules. Properties."
+  },
+  {
+   "concept_slug": "derivative",
+   "unit_id": "CALC-L05",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Topic 2. Derivatives"
+  },
+  {
+   "concept_slug": "differentiation-rules",
+   "unit_id": "CALC-L05",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Definition of the derivative. Motivation. Differentiation rules. Properties."
+  },
+  {
+   "concept_slug": "differentiable-function",
+   "unit_id": "CALC-L06",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+  },
+  {
+   "concept_slug": "rolles-theorem",
+   "unit_id": "CALC-L06",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+  },
+  {
+   "concept_slug": "lagrange-mean-value-theorem",
+   "unit_id": "CALC-L06",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+  },
+  {
+   "concept_slug": "cauchy-mean-value-theorem",
+   "unit_id": "CALC-L06",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Differentiable functions. Their properties. The theorems of Rolle, Lagrange, and Cauchy."
+  },
+  {
+   "concept_slug": "differential",
+   "unit_id": "CALC-L07",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Differential of a function. Higher-order derivatives."
+  },
+  {
+   "concept_slug": "higher-order-derivative",
+   "unit_id": "CALC-L07",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Differential of a function. Higher-order derivatives."
+  },
+  {
+   "concept_slug": "taylors-formula",
+   "unit_id": "CALC-L08",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Taylor’s formula. L’Hôpital’s rule."
+  },
+  {
+   "concept_slug": "lhopitals-rule",
+   "unit_id": "CALC-L08",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Taylor’s formula. L’Hôpital’s rule."
+  },
+  {
+   "concept_slug": "convexity",
+   "unit_id": "CALC-L09",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Convexity. The second derivative test. Graphing functions."
+  },
+  {
+   "concept_slug": "second-derivative-test",
+   "unit_id": "CALC-L09",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Convexity. The second derivative test. Graphing functions."
+  },
+  {
+   "concept_slug": "function-graphing",
+   "unit_id": "CALC-L09",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Convexity. The second derivative test. Graphing functions."
+  },
+  {
+   "concept_slug": "antiderivative",
+   "unit_id": "CALC-L10",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Antiderivative and indefinite integral. Substitution."
+  },
+  {
+   "concept_slug": "antiderivative",
+   "unit_id": "CALC-L10",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Topic 3. Integral"
+  },
+  {
+   "concept_slug": "indefinite-integral",
+   "unit_id": "CALC-L10",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Antiderivative and indefinite integral. Substitution."
+  },
+  {
+   "concept_slug": "integration-by-substitution",
+   "unit_id": "CALC-L10",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Antiderivative and indefinite integral. Substitution."
+  },
+  {
+   "concept_slug": "integration-by-parts",
+   "unit_id": "CALC-L11",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Integrating by parts"
+  },
+  {
+   "concept_slug": "definite-integral",
+   "unit_id": "CALC-L12",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Definite integral. Properties of the definite integral. Mean value theorem for integrals. Newton–Leibniz formula."
+  },
+  {
+   "concept_slug": "mean-value-theorem-for-integrals",
+   "unit_id": "CALC-L12",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Definite integral. Properties of the definite integral. Mean value theorem for integrals. Newton–Leibniz formula."
+  },
+  {
+   "concept_slug": "newton-leibniz-formula",
+   "unit_id": "CALC-L12",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Definite integral. Properties of the definite integral. Mean value theorem for integrals. Newton–Leibniz formula."
+  },
+  {
+   "concept_slug": "applications-of-definite-integral",
+   "unit_id": "CALC-L13",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Formulas of substitution and integration by parts. Some applications of the definite integral. Improper integrals."
+  },
+  {
+   "concept_slug": "improper-integral",
+   "unit_id": "CALC-L13",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Formulas of substitution and integration by parts. Some applications of the definite integral. Improper integrals."
+  },
+  {
+   "concept_slug": "series",
+   "unit_id": "CALC-L14",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Series. Convergence of series. Examples. Tests for convergence of numerical series."
+  },
+  {
+   "concept_slug": "series",
+   "unit_id": "CALC-L14",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Topic 4. Series"
+  },
+  {
+   "concept_slug": "convergence-of-series",
+   "unit_id": "CALC-L14",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Series. Convergence of series. Examples. Tests for convergence of numerical series."
+  },
+  {
+   "concept_slug": "convergence-tests",
+   "unit_id": "CALC-L14",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Series. Convergence of series. Examples. Tests for convergence of numerical series."
+  },
+  {
+   "concept_slug": "power-series",
+   "unit_id": "CALC-L15",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Power series. Taylor series. Maclaurin series. Domains of convergence."
+  },
+  {
+   "concept_slug": "taylor-series",
+   "unit_id": "CALC-L15",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Power series. Taylor series. Maclaurin series. Domains of convergence."
+  },
+  {
+   "concept_slug": "maclaurin-series",
+   "unit_id": "CALC-L15",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Power series. Taylor series. Maclaurin series. Domains of convergence."
+  },
+  {
+   "concept_slug": "domain-of-convergence",
+   "unit_id": "CALC-L15",
+   "rel_path": "source/Syllabus_Calculus.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Power series. Taylor series. Maclaurin series. Domains of convergence."
+  },
+  {
+   "concept_slug": "logical-proposition",
+   "unit_id": "PROB-P01",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 1. Logical propositions, true/false propositions."
+  },
+  {
+   "concept_slug": "logical-operations",
+   "unit_id": "PROB-P02",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 2. Logical operations, truth tables."
+  },
+  {
+   "concept_slug": "truth-table",
+   "unit_id": "PROB-P02",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 2. Logical operations, truth tables."
+  },
+  {
+   "concept_slug": "negation-of-claim",
+   "unit_id": "PROB-P03",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 3. Building negations to claims."
+  },
+  {
+   "concept_slug": "set",
+   "unit_id": "PROB-P04",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sets and subsets, set operations, Euler"
+  },
+  {
+   "concept_slug": "set",
+   "unit_id": "PROB-P04",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Block 1. Basics of logic and set theory"
+  },
+  {
+   "concept_slug": "subset",
+   "unit_id": "PROB-P04",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sets and subsets, set operations, Euler"
+  },
+  {
+   "concept_slug": "set-operations",
+   "unit_id": "PROB-P04",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sets and subsets, set operations, Euler"
+  },
+  {
+   "concept_slug": "euler-diagram",
+   "unit_id": "PROB-P04",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Sets and subsets, set operations, Euler"
+  },
+  {
+   "concept_slug": "cardinality-of-finite-set",
+   "unit_id": "PROB-P05",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 5. The Number of Elements in a Finite Set."
+  },
+  {
+   "concept_slug": "cartesian-product",
+   "unit_id": "PROB-P06",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Cartesian product, multiplication and addition"
+  },
+  {
+   "concept_slug": "cartesian-product",
+   "unit_id": "PROB-P06",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Block 2. Set theory and combinatorics"
+  },
+  {
+   "concept_slug": "multiplication-rule",
+   "unit_id": "PROB-P06",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Cartesian product, multiplication and addition"
+  },
+  {
+   "concept_slug": "addition-rule",
+   "unit_id": "PROB-P06",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Cartesian product, multiplication and addition"
+  },
+  {
+   "concept_slug": "permutation",
+   "unit_id": "PROB-P07",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 7. Permutations and Combinations."
+  },
+  {
+   "concept_slug": "combination",
+   "unit_id": "PROB-P07",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 7. Permutations and Combinations."
+  },
+  {
+   "concept_slug": "event-space",
+   "unit_id": "PROB-P08",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 8. Event space, events."
+  },
+  {
+   "concept_slug": "event-space",
+   "unit_id": "PROB-P08",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Block 3. Probability, rules of probability"
+  },
+  {
+   "concept_slug": "event",
+   "unit_id": "PROB-P08",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 8. Event space, events."
+  },
+  {
+   "concept_slug": "probability",
+   "unit_id": "PROB-P09",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 9. Probability definition. Rules of probability."
+  },
+  {
+   "concept_slug": "probability-rules",
+   "unit_id": "PROB-P09",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 9. Probability definition. Rules of probability."
+  },
+  {
+   "concept_slug": "combinatorial-probability",
+   "unit_id": "PROB-P10",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Usage of combinatorics in probability word"
+  },
+  {
+   "concept_slug": "conditional-probability",
+   "unit_id": "PROB-P11",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 11. Conditional probability and independent events."
+  },
+  {
+   "concept_slug": "conditional-probability",
+   "unit_id": "PROB-P11",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Block 4. Conditional probability, independent events, Bayes’ rule"
+  },
+  {
+   "concept_slug": "independent-events",
+   "unit_id": "PROB-P11",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 11. Conditional probability and independent events."
+  },
+  {
+   "concept_slug": "total-probability-law",
+   "unit_id": "PROB-P12",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 12. Total probability law (chain rule)."
+  },
+  {
+   "concept_slug": "posterior-probability",
+   "unit_id": "PROB-P13",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 13. A posteriori probability, Bayes’ rule."
+  },
+  {
+   "concept_slug": "bayes-rule",
+   "unit_id": "PROB-P13",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 13. A posteriori probability, Bayes’ rule."
+  },
+  {
+   "concept_slug": "bayes-rule",
+   "unit_id": "PROB-P13",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Block 4. Conditional probability, independent events, Bayes’ rule"
+  },
+  {
+   "concept_slug": "random-variable",
+   "unit_id": "PROB-P15",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Block 5. Random variables. Random distributions and their characteristics"
+  },
+  {
+   "concept_slug": "random-distribution",
+   "unit_id": "PROB-P15",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 15. Random distributions. Expected value."
+  },
+  {
+   "concept_slug": "expected-value",
+   "unit_id": "PROB-P15",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 15. Random distributions. Expected value."
+  },
+  {
+   "concept_slug": "variance",
+   "unit_id": "PROB-P16",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 16. Random distributions. Variance and standard"
+  },
+  {
+   "concept_slug": "standard-deviation",
+   "unit_id": "PROB-P16",
+   "rel_path": "source/Syllabus_Probability_essentials.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Preparation lecture materials 16. Random distributions. Variance and standard"
+  },
+  {
+   "concept_slug": "supervised-learning",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Supervised Learning"
+  },
+  {
+   "concept_slug": "classification",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Classification/Regression"
+  },
+  {
+   "concept_slug": "regression",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Classification/Regression"
+  },
+  {
+   "concept_slug": "knn",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "KNN"
+  },
+  {
+   "concept_slug": "linear-regression",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Linear Regression"
+  },
+  {
+   "concept_slug": "decision-tree",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Decision Tree"
+  },
+  {
+   "concept_slug": "overfitting",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Overfitting and train/validation splits"
+  },
+  {
+   "concept_slug": "train-validation-split",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Overfitting and train/validation splits"
+  },
+  {
+   "concept_slug": "cross-validation",
+   "unit_id": "ML-M1",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "CV algorithm"
+  },
+  {
+   "concept_slug": "unsupervised-learning",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Unsupervised Learning"
+  },
+  {
+   "concept_slug": "data-compression",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Data compression"
+  },
+  {
+   "concept_slug": "curse-of-dimensionality",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "The curse of dimensionality"
+  },
+  {
+   "concept_slug": "pca",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "PCA, t-SNE/UMAP (briefly)"
+  },
+  {
+   "concept_slug": "nonlinear-embedding",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "PCA, t-SNE/UMAP (briefly)"
+  },
+  {
+   "concept_slug": "hierarchical-clustering",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "H-clustering, K-Means, DBSCAN;"
+  },
+  {
+   "concept_slug": "k-means",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "H-clustering, K-Means, DBSCAN;"
+  },
+  {
+   "concept_slug": "dbscan",
+   "unit_id": "ML-M2",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "H-clustering, K-Means, DBSCAN;"
+  },
+  {
+   "concept_slug": "deep-learning",
+   "unit_id": "ML-M3",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Deep Learning"
+  },
+  {
+   "concept_slug": "artificial-neuron",
+   "unit_id": "ML-M3",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Artificial neuron"
+  },
+  {
+   "concept_slug": "feedforward-network",
+   "unit_id": "ML-M3",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Feed-forward, backprop, convolutional operation,"
+  },
+  {
+   "concept_slug": "backpropagation",
+   "unit_id": "ML-M3",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Feed-forward, backprop, convolutional operation,"
+  },
+  {
+   "concept_slug": "convolution-operation",
+   "unit_id": "ML-M3",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Feed-forward, backprop, convolutional operation,"
+  },
+  {
+   "concept_slug": "training-loop",
+   "unit_id": "ML-M3",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Training loop"
+  },
+  {
+   "concept_slug": "regularization",
+   "unit_id": "ML-M4",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Regularization methods"
+  },
+  {
+   "concept_slug": "l2-regularization",
+   "unit_id": "ML-M4",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "L2 and L1 regularisation"
+  },
+  {
+   "concept_slug": "l1-regularization",
+   "unit_id": "ML-M4",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "L2 and L1 regularisation"
+  },
+  {
+   "concept_slug": "weight-decay",
+   "unit_id": "ML-M4",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Weight decay, dropout"
+  },
+  {
+   "concept_slug": "dropout",
+   "unit_id": "ML-M4",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Weight decay, dropout"
+  },
+  {
+   "concept_slug": "data-augmentation",
+   "unit_id": "ML-M4",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Data augmentation"
+  },
+  {
+   "concept_slug": "ensemble-learning",
+   "unit_id": "ML-M5",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Ensemble learning"
+  },
+  {
+   "concept_slug": "averaging-and-voting",
+   "unit_id": "ML-M5",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Basic averaging and majority vote"
+  },
+  {
+   "concept_slug": "bagging",
+   "unit_id": "ML-M5",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Bagging ensemble"
+  },
+  {
+   "concept_slug": "random-forest",
+   "unit_id": "ML-M5",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Random forest"
+  },
+  {
+   "concept_slug": "boosting",
+   "unit_id": "ML-M5",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Adaptive boosting, stacking, and blending;"
+  },
+  {
+   "concept_slug": "stacking",
+   "unit_id": "ML-M5",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Adaptive boosting, stacking, and blending;"
+  },
+  {
+   "concept_slug": "accuracy",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Accuracy, baselines"
+  },
+  {
+   "concept_slug": "baseline",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Accuracy, baselines"
+  },
+  {
+   "concept_slug": "confusion-matrix",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Confusion matrix, recall and precision"
+  },
+  {
+   "concept_slug": "recall",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Confusion matrix, recall and precision"
+  },
+  {
+   "concept_slug": "precision",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Confusion matrix, recall and precision"
+  },
+  {
+   "concept_slug": "f1-score",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "F1/Dice, ROC/AUC."
+  },
+  {
+   "concept_slug": "roc-auc",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "F1/Dice, ROC/AUC."
+  },
+  {
+   "concept_slug": "holistic-evaluation",
+   "unit_id": "ML-M6",
+   "rel_path": "source/Syllabus_Machine_Learning.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Holistic view"
+  },
+  {
+   "concept_slug": "linear-equation",
+   "unit_id": "LA-M1U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Topic 1: Linear equations. Systems of linear equations (SLE). Matrices of SLE. Jordan–Gauss method."
+  },
+  {
+   "concept_slug": "system-of-linear-equations",
+   "unit_id": "LA-M1U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Problem Solving Session 1. Back to School."
+  },
+  {
+   "concept_slug": "system-of-linear-equations",
+   "unit_id": "LA-M1U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Topic 1: Linear equations. Systems of linear equations (SLE). Matrices of SLE. Jordan–Gauss method."
+  },
+  {
+   "concept_slug": "matrix",
+   "unit_id": "LA-M1U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Matrices of SLE, row operations"
+  },
+  {
+   "concept_slug": "matrix",
+   "unit_id": "LA-M1U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Algebraic view on vectors, definition of a matrix (recap), special matrices"
+  },
+  {
+   "concept_slug": "coefficient-matrix",
+   "unit_id": "LA-M1U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Matrices of SLE, row operations"
+  },
+  {
+   "concept_slug": "coefficient-matrix",
+   "unit_id": "LA-M1U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "Topic 1: Linear equations. Systems of linear equations (SLE). Matrices of SLE. Jordan–Gauss method."
+  },
+  {
+   "concept_slug": "elementary-row-operations",
+   "unit_id": "LA-M1U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Matrices of SLE, row operations"
+  },
+  {
+   "concept_slug": "row-echelon-form",
+   "unit_id": "LA-M1U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "transform a matrix to row-echelon form using the Jordan–Gauss method, and see how this helps solve systems of equations"
+  },
+  {
+   "concept_slug": "gaussian-elimination",
+   "unit_id": "LA-M1U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Problem Solving Session 3. Jordan-Gauss method"
+  },
+  {
+   "concept_slug": "gaussian-elimination",
+   "unit_id": "LA-M1U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "applied",
+   "confidence": 0.9,
+   "quote": "transform a matrix to row-echelon form using the Jordan–Gauss method, and see how this helps solve systems of equations"
+  },
+  {
+   "concept_slug": "solution-set-of-sle",
+   "unit_id": "LA-M2U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Applications for solutions for SLE"
+  },
+  {
+   "concept_slug": "matrix-modelling",
+   "unit_id": "LA-M2U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Applications for solutions for SLE"
+  },
+  {
+   "concept_slug": "matrix-modelling",
+   "unit_id": "LA-M2U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "applied",
+   "confidence": 0.9,
+   "quote": "model simple real-life situations with vectors and/or matrices, for example small economic or data-analysis problems"
+  },
+  {
+   "concept_slug": "system-of-linear-equations",
+   "unit_id": "LA-M2U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 5. Test Preparation."
+  },
+  {
+   "concept_slug": "coefficient-matrix",
+   "unit_id": "LA-M2U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 5. Test Preparation."
+  },
+  {
+   "concept_slug": "elementary-row-operations",
+   "unit_id": "LA-M2U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 5. Test Preparation."
+  },
+  {
+   "concept_slug": "gaussian-elimination",
+   "unit_id": "LA-M2U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 5. Test Preparation."
+  },
+  {
+   "concept_slug": "row-echelon-form",
+   "unit_id": "LA-M2U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 5. Test Preparation."
+  },
+  {
+   "concept_slug": "solution-set-of-sle",
+   "unit_id": "LA-M2U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 5. Test Preparation."
+  },
+  {
+   "concept_slug": "vector",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Algebraic view on vectors, definition of a matrix (recap), special matrices"
+  },
+  {
+   "concept_slug": "vector-addition",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Algebraic view on vectors, definition of a matrix (recap), special matrices"
+  },
+  {
+   "concept_slug": "vector-addition",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+  },
+  {
+   "concept_slug": "scalar-multiplication",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Algebraic view on vectors, definition of a matrix (recap), special matrices"
+  },
+  {
+   "concept_slug": "scalar-multiplication",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+  },
+  {
+   "concept_slug": "linear-space",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "The concept of a linear space"
+  },
+  {
+   "concept_slug": "special-matrices",
+   "unit_id": "LA-M2U3",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Algebraic view on vectors, definition of a matrix (recap), special matrices"
+  },
+  {
+   "concept_slug": "matrix-addition",
+   "unit_id": "LA-M3U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Operations with matrices: addition, scalar multiplication, transposition"
+  },
+  {
+   "concept_slug": "matrix-addition",
+   "unit_id": "LA-M3U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+  },
+  {
+   "concept_slug": "matrix-transposition",
+   "unit_id": "LA-M3U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Operations with matrices: addition, scalar multiplication, transposition"
+  },
+  {
+   "concept_slug": "matrix-transposition",
+   "unit_id": "LA-M3U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+  },
+  {
+   "concept_slug": "matrix-vector-multiplication",
+   "unit_id": "LA-M3U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Multiplication of matrix by vector, matrix multiplication"
+  },
+  {
+   "concept_slug": "matrix-multiplication",
+   "unit_id": "LA-M3U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Multiplication of matrix by vector, matrix multiplication"
+  },
+  {
+   "concept_slug": "matrix-multiplication",
+   "unit_id": "LA-M3U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "perform basic operations with vectors and matrices - addition, scalar multiplication, transposition and matrix multiplication - with confidence"
+  },
+  {
+   "concept_slug": "vector",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "linear-space",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "matrix-addition",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "scalar-multiplication",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "matrix-transposition",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "matrix-multiplication",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "matrix-vector-multiplication",
+   "unit_id": "LA-M4U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 9. Test preparation."
+  },
+  {
+   "concept_slug": "inverse-matrix",
+   "unit_id": "LA-M4U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Inverse matrix. Finding inverse matrix using Jordan-Gauss method. Explicit formula for an inverse for 2×2 matrix"
+  },
+  {
+   "concept_slug": "inverse-via-jordan-gauss",
+   "unit_id": "LA-M4U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Inverse matrix. Finding inverse matrix using Jordan-Gauss method. Explicit formula for an inverse for 2×2 matrix"
+  },
+  {
+   "concept_slug": "inverse-via-jordan-gauss",
+   "unit_id": "LA-M4U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "applied",
+   "confidence": 0.9,
+   "quote": "find an inverse matrix using the Jordan-Gauss method"
+  },
+  {
+   "concept_slug": "inverse-2x2-formula",
+   "unit_id": "LA-M4U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Inverse matrix. Finding inverse matrix using Jordan-Gauss method. Explicit formula for an inverse for 2×2 matrix"
+  },
+  {
+   "concept_slug": "solving-sle-with-inverse",
+   "unit_id": "LA-M5U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Solving SLE using the inverse matrix"
+  },
+  {
+   "concept_slug": "solving-sle-with-inverse",
+   "unit_id": "LA-M5U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "applied",
+   "confidence": 0.9,
+   "quote": "analyze and solve systems of linear equations (SLE) using different strategies"
+  },
+  {
+   "concept_slug": "determinant",
+   "unit_id": "LA-M5U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Determinant of matrix. Geometrical approach in the case of a 2×2 matrix"
+  },
+  {
+   "concept_slug": "determinant",
+   "unit_id": "LA-M5U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "find the determinant of a square matrix and interpret what determinant can tell you, what information you can get out of it"
+  },
+  {
+   "concept_slug": "determinant-geometric-interpretation",
+   "unit_id": "LA-M5U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Determinant of matrix. Geometrical approach in the case of a 2×2 matrix"
+  },
+  {
+   "concept_slug": "inverse-matrix",
+   "unit_id": "LA-M6U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 13. Test preparation."
+  },
+  {
+   "concept_slug": "inverse-via-jordan-gauss",
+   "unit_id": "LA-M6U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 13. Test preparation."
+  },
+  {
+   "concept_slug": "inverse-2x2-formula",
+   "unit_id": "LA-M6U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 13. Test preparation."
+  },
+  {
+   "concept_slug": "solving-sle-with-inverse",
+   "unit_id": "LA-M6U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 13. Test preparation."
+  },
+  {
+   "concept_slug": "determinant",
+   "unit_id": "LA-M6U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 13. Test preparation."
+  },
+  {
+   "concept_slug": "determinant-geometric-interpretation",
+   "unit_id": "LA-M6U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 13. Test preparation."
+  },
+  {
+   "concept_slug": "geometric-transformation-matrix",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Geometric transformations using vectors/matrices: symmetry and rotation"
+  },
+  {
+   "concept_slug": "geometric-transformation-matrix",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "applied",
+   "confidence": 0.9,
+   "quote": "use matrix transformations to describe basic geometric transformations in the plane such as symmetry and rotation"
+  },
+  {
+   "concept_slug": "reflection",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Geometric transformations using vectors/matrices: symmetry and rotation"
+  },
+  {
+   "concept_slug": "reflection",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "use matrix transformations to describe basic geometric transformations in the plane such as symmetry and rotation"
+  },
+  {
+   "concept_slug": "rotation",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "Geometric transformations using vectors/matrices: symmetry and rotation"
+  },
+  {
+   "concept_slug": "rotation",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "defined",
+   "confidence": 0.9,
+   "quote": "use matrix transformations to describe basic geometric transformations in the plane such as symmetry and rotation"
+  },
+  {
+   "concept_slug": "scaling",
+   "unit_id": "LA-M6U2",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "simple geometric transformations such as reflections, rotations and scaling"
+  },
+  {
+   "concept_slug": "linear-model-thinking",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "introduced",
+   "confidence": 0.9,
+   "quote": "The goal is not just to memorize procedures, but I want you to get used to thinking in terms of linear models so that later quantitative courses feel more natural and less mysterious."
+  },
+  {
+   "concept_slug": "gaussian-elimination",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 15. Total recall"
+  },
+  {
+   "concept_slug": "matrix-multiplication",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 15. Total recall"
+  },
+  {
+   "concept_slug": "inverse-matrix",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 15. Total recall"
+  },
+  {
+   "concept_slug": "determinant",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 15. Total recall"
+  },
+  {
+   "concept_slug": "geometric-transformation-matrix",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 15. Total recall"
+  },
+  {
+   "concept_slug": "matrix-modelling",
+   "unit_id": "LA-M7U1",
+   "rel_path": "source/Syllabus_Linear_Algebra.pdf",
+   "role": "assessed",
+   "confidence": 0.85,
+   "quote": "Problem Solving Session 15. Total recall"
+  }
+ ]
+}
